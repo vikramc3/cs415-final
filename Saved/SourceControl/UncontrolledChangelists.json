@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/TopDown/Blueprints/BP_Enemy_Melee.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/BP_Enemy_Melee.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/BB_Enemy_.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/BB_Enemy_Base.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/Tasks/BTT_Focus_Target.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/MV/Z36FQDF15O24HSH5YBAVZ7.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/BT_Enemy_Base.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/BTT_Default_Attack.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/5V/5F8ELQFS4XVPFOW8J1YI2T.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/TopDown/Blueprints/Stable_Sword_Outward_Slash.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/Tasks/BTT_Clear_Focus.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Fab/Sword/Material.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Fab/Sword/sword.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Fab/Sword/sword_texture_0.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Fab/Sword/sword_texture_1.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Fab/Sword/sword_texture_2.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Sword_Animation/Animations/anim_attack_light_01_Montage.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/TopDown/Blueprints/Weapons/BP_Sword.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/Tasks/BTT_Wield_Weapon.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/Decorator/BTD_isWieldingWeapon.uasset"
+			]
+		}
+	]
+}
