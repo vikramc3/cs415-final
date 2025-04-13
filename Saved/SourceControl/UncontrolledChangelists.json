@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/akars/Documents/cs415 final/cs415-final/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/akars/Documents/cs415 final/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/akars/Documents/cs415 final/cs415-final/Content/TopDown/Blueprints/UI/Health_Bar_Widget.uasset"
+			]
+		}
+	]
+}
