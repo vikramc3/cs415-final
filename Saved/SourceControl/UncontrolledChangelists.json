@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/akars/Documents/cs415 final/cs415-final/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/akars/Documents/cs415 final/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/akars/Documents/cs415 final/cs415-final/Content/TopDown/Blueprints/UI/Health_Bar_Widget.uasset"
+=======
 				"/Users/vikramchandramouli/Desktop/CS415_Final/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
 				"/Users/vikramchandramouli/Desktop/CS415_Final/Content/TopDown/Blueprints/DungeonGenerator.uasset",
 				"/Users/vikramchandramouli/Desktop/CS415_Final/Content/TopDown/Blueprints/Start_Room_BP.uasset",
@@ -38,6 +43,7 @@
 				"/Users/vikramchandramouli/Desktop/CS415_Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/78/FBR4X3QS2U1JDDOL41R95K.uasset",
 				"/Users/vikramchandramouli/Desktop/CS415_Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
 				"/Users/vikramchandramouli/Desktop/CS415_Final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/N4/C9HTJUHZDSHVHR7N6A61C2.uasset"
+>>>>>>> main
 			]
 		}
 	]
