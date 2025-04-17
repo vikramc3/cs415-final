@@ -1,1 +1,5 @@
-[0413/162242.623:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0417/152321.385:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0417/152321.387:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Saved/webcache_4430\Cache to C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Saved/webcache_4430\old_Cache_000
+[0417/152321.388:ERROR:disk_cache.cc(184)] Unable to create cache
+[0417/152324.094:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0417/152327.945:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
