@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/21die/OneDrive/Desktop/CS 415 Project/New FOlder/cs415-final/Content/Blueprints/Input/IA_Movement.uasset",
+				"C:/Users/21die/OneDrive/Desktop/CS 415 Project/New FOlder/cs415-final/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/AI/AIC_Enemy_Base.uasset",
 				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/Enemy/BP_Enemy_Melee.uasset",
 				"C:/Users/azizm/OneDrive/Documents/CS415/Final/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
