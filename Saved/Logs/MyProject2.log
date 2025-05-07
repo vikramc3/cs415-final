@@ -16074,3 +16074,871 @@ Script Stack (0 frames) :
 [2025.05.07-22.38.49:050][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
 [2025.05.07-22.38.49:058][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2025.05.07-22.38.49:115][712]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2025.05.07-22.40.18:819][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.07-22.40.18:826][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/1O/ANKY0M97ZU0A81CULB9RTD_Auto2
+[2025.05.07-22.40.18:826][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ANKY0M97ZU0A81CULB9RTD_Auto259329DA04BAD912F389724A56D0C505A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/1O/ANKY0M97ZU0A81CULB9RTD_Auto2.uasset'
+[2025.05.07-22.40.18:827][147]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.033
+[2025.05.07-22.40.18:827][147]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.05.07-22.40.18:828][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/Enemy_Actor] ([2] browsable assets)...
+[2025.05.07-22.40.18:828][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Enemy_Actor]
+[2025.05.07-22.40.18:846][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Enemy_Actor_Auto2
+[2025.05.07-22.40.18:846][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Enemy_Actor_Auto2DBB8149044845F67A4F9D3BDF7C31E74.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/Enemy_Actor_Auto2.uasset'
+[2025.05.07-22.40.18:848][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Enemy_Projectile] ([2] browsable assets)...
+[2025.05.07-22.40.18:848][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Enemy_Projectile]
+[2025.05.07-22.40.18:852][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Enemy_Projectile_Auto2
+[2025.05.07-22.40.18:852][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Enemy_Projectile_Auto21F1C6A644761AD1FF139CCBFE3DD4D0A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/Enemy_Projectile_Auto2.uasset'
+[2025.05.07-22.40.18:853][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/BP_EnemySpawner] ([2] browsable assets)...
+[2025.05.07-22.40.18:853][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_EnemySpawner]
+[2025.05.07-22.40.18:867][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/BP_EnemySpawner_Auto2
+[2025.05.07-22.40.18:867][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_EnemySpawner_Auto26C452C4B47970B5BFC44379058AC4554.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/BP_EnemySpawner_Auto2.uasset'
+[2025.05.07-22.40.18:868][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/BP_Zombie] ([2] browsable assets)...
+[2025.05.07-22.40.18:995][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_Zombie.BP_Zombie]
+[2025.05.07-22.40.18:996][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Zombie]
+[2025.05.07-22.40.19:008][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/BP_Zombie_Auto2
+[2025.05.07-22.40.19:009][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_Zombie_Auto20E0D33F946F0447DCEC6F39679FA9262.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/BP_Zombie_Auto2.uasset'
+[2025.05.07-22.40.19:010][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset] ([1] browsable assets)...
+[2025.05.07-22.40.19:010][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset]
+[2025.05.07-22.40.19:017][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset_Auto2
+[2025.05.07-22.40.19:018][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_P31EA5FB04963EE875DE8CEB4204B04FC.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset_Auto2.uasset'
+[2025.05.07-22.40.19:020][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton] ([1] browsable assets)...
+[2025.05.07-22.40.19:020][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton]
+[2025.05.07-22.40.19:022][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton_Auto2
+[2025.05.07-22.40.19:023][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_S925A091A4250C02D794440923BF51D8A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton_Auto2.uasset'
+[2025.05.07-22.40.19:024][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1] ([1] browsable assets)...
+[2025.05.07-22.40.19:024][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1]
+[2025.05.07-22.40.19:026][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1_Auto2
+[2025.05.07-22.40.19:027][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/blinn1_Auto26056284649A8A5C711C7199E1A95CE1F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1_Auto2.uasset'
+[2025.05.07-22.40.19:028][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0] ([1] browsable assets)...
+[2025.05.07-22.40.19:028][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0]
+[2025.05.07-22.40.19:032][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0_Auto2
+[2025.05.07-22.40.19:032][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_t29A2A45242C52E1CB068C4A637FBE59C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0_Auto2.uasset'
+[2025.05.07-22.40.19:034][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1] ([1] browsable assets)...
+[2025.05.07-22.40.19:034][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1]
+[2025.05.07-22.40.19:037][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1_Auto2
+[2025.05.07-22.40.19:037][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_t04002A934045F7F9522806A8C648D7FE.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1_Auto2.uasset'
+[2025.05.07-22.40.19:039][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2] ([1] browsable assets)...
+[2025.05.07-22.40.19:039][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2]
+[2025.05.07-22.40.19:042][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2_Auto2
+[2025.05.07-22.40.19:043][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_t3597551147A9D06E61D3B6A0ADE64480.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2_Auto2.uasset'
+[2025.05.07-22.40.19:044][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1] ([1] browsable assets)...
+[2025.05.07-22.40.19:044][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1]
+[2025.05.07-22.40.19:046][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1_Auto2
+[2025.05.07-22.40.19:047][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/lambert1_Auto21F491E9E43BC3180FD7522B88144A310.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1_Auto2.uasset'
+[2025.05.07-22.40.19:049][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation] ([1] browsable assets)...
+[2025.05.07-22.40.19:049][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation]
+[2025.05.07-22.40.19:059][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Auto2
+[2025.05.07-22.40.19:060][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_AB486B89449714917FE76C69436BA4A8E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Auto2.uasset'
+[2025.05.07-22.40.19:062][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle] ([1] browsable assets)...
+[2025.05.07-22.40.19:062][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle]
+[2025.05.07-22.40.19:065][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle_Auto2
+[2025.05.07-22.40.19:066][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Idle_Auto21491487442EF033F6074429CD6AF0F6A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle_Auto2.uasset'
+[2025.05.07-22.40.19:067][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk] ([1] browsable assets)...
+[2025.05.07-22.40.19:067][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk]
+[2025.05.07-22.40.19:071][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk_Auto2
+[2025.05.07-22.40.19:072][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Walk_Auto24A68287B4B0B1D20A640DCB2A4CC091D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk_Auto2.uasset'
+[2025.05.07-22.40.19:073][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Death] ([1] browsable assets)...
+[2025.05.07-22.40.19:073][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Death]
+[2025.05.07-22.40.19:077][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Death_Auto2
+[2025.05.07-22.40.19:078][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Death_Auto2F5225EFE41016E8109CBEDA6C3463BF2.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Death_Auto2.uasset'
+[2025.05.07-22.40.19:079][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack_] ([1] browsable assets)...
+[2025.05.07-22.40.19:079][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack_]
+[2025.05.07-22.40.19:082][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack__Auto2
+[2025.05.07-22.40.19:083][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Attack__Auto22D338AEB46154BD69DC21A816F6E694F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack__Auto2.uasset'
+[2025.05.07-22.40.19:084][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset] ([1] browsable assets)...
+[2025.05.07-22.40.19:084][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset]
+[2025.05.07-22.40.19:095][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset_Auto2
+[2025.05.07-22.40.19:096][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zom_8_PhysicsAsset_Auto2B97665BA488C8BF045FE27A0D445D484.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset_Auto2.uasset'
+[2025.05.07-22.40.19:097][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton] ([1] browsable assets)...
+[2025.05.07-22.40.19:097][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton]
+[2025.05.07-22.40.19:099][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton_Auto2
+[2025.05.07-22.40.19:099][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zom_8_Skeleton_Auto2FE6DD7A84C7F08E39677859AEE02F16E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton_Auto2.uasset'
+[2025.05.07-22.40.19:101][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal] ([1] browsable assets)...
+[2025.05.07-22.40.19:101][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal]
+[2025.05.07-22.40.19:104][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal_Auto2
+[2025.05.07-22.40.19:105][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Body_normal_Auto2B1E0AA6B4769DD9778D826BB557EF952.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal_Auto2.uasset'
+[2025.05.07-22.40.19:106][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse] ([1] browsable assets)...
+[2025.05.07-22.40.19:106][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse]
+[2025.05.07-22.40.19:110][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse_Auto2
+[2025.05.07-22.40.19:110][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Body_diffuse_Auto2B612E8E24C82A8CDC59D89A22B16C17D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse_Auto2.uasset'
+[2025.05.07-22.40.19:112][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse] ([1] browsable assets)...
+[2025.05.07-22.40.19:112][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse]
+[2025.05.07-22.40.19:114][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse_Auto2
+[2025.05.07-22.40.19:115][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hat_diffuse_Auto207CF9E6C49A80C49958D4084E9517643.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse_Auto2.uasset'
+[2025.05.07-22.40.19:116][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal] ([1] browsable assets)...
+[2025.05.07-22.40.19:116][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal]
+[2025.05.07-22.40.19:118][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal_Auto2
+[2025.05.07-22.40.19:119][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Top_normal_Auto2A8A4A44240A3CF8044217E8C19066A64.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal_Auto2.uasset'
+[2025.05.07-22.40.19:120][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse] ([1] browsable assets)...
+[2025.05.07-22.40.19:120][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse]
+[2025.05.07-22.40.19:122][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse_Auto2
+[2025.05.07-22.40.19:123][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Top_diffuse_Auto2F00FF7F3476C5EEB1CC4E0B9DFEC8B0A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse_Auto2.uasset'
+[2025.05.07-22.40.19:124][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness] ([1] browsable assets)...
+[2025.05.07-22.40.19:124][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness]
+[2025.05.07-22.40.19:125][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness_Auto2
+[2025.05.07-22.40.19:126][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Top_roughness_Auto2A5C78C464EC2DAFFDCC7AEA9891FF172.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness_Auto2.uasset'
+[2025.05.07-22.40.19:127][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness] ([1] browsable assets)...
+[2025.05.07-22.40.19:128][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness]
+[2025.05.07-22.40.19:131][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness_Auto2
+[2025.05.07-22.40.19:131][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Body_roughness_Auto23F5B1A064326A342A91911A055F19058.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness_Auto2.uasset'
+[2025.05.07-22.40.19:133][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse] ([1] browsable assets)...
+[2025.05.07-22.40.19:133][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse]
+[2025.05.07-22.40.19:134][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse_Auto2
+[2025.05.07-22.40.19:135][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Bottom_diffuse_Auto2166AB46F4A7CE2D40BB38CA8892E6C10.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse_Auto2.uasset'
+[2025.05.07-22.40.19:137][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness] ([1] browsable assets)...
+[2025.05.07-22.40.19:137][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness]
+[2025.05.07-22.40.19:138][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness_Auto2
+[2025.05.07-22.40.19:139][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Bottom_roughness_Auto20D6DFFEF4C326BA9BE6CEAA33DD8B446.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness_Auto2.uasset'
+[2025.05.07-22.40.19:140][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal] ([1] browsable assets)...
+[2025.05.07-22.40.19:140][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal]
+[2025.05.07-22.40.19:142][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal_Auto2
+[2025.05.07-22.40.19:143][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hair_normal_Auto2F6F6642F4E3E1E765B1AEBB59EF3D0AF.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal_Auto2.uasset'
+[2025.05.07-22.40.19:144][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse] ([1] browsable assets)...
+[2025.05.07-22.40.19:144][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse]
+[2025.05.07-22.40.19:146][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse_Auto2
+[2025.05.07-22.40.19:147][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hair_diffuse_Auto24147BC004BA4394359619F854DDBB52B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse_Auto2.uasset'
+[2025.05.07-22.40.19:148][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal] ([1] browsable assets)...
+[2025.05.07-22.40.19:148][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal]
+[2025.05.07-22.40.19:150][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal_Auto2
+[2025.05.07-22.40.19:151][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hat_normal_Auto210F0547C4A0A179D1D3062908A78FDF5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal_Auto2.uasset'
+[2025.05.07-22.40.19:152][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Tops] ([1] browsable assets)...
+[2025.05.07-22.40.19:152][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Tops]
+[2025.05.07-22.40.19:154][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Tops_Auto2
+[2025.05.07-22.40.19:155][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Tops_Auto2FF69046B41888D614657B1A759A7B3B5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Tops_Auto2.uasset'
+[2025.05.07-22.40.19:156][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness] ([1] browsable assets)...
+[2025.05.07-22.40.19:156][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness]
+[2025.05.07-22.40.19:158][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness_Auto2
+[2025.05.07-22.40.19:158][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hat_roughness_Auto2D4F0464346A73072EDCBE594CBE7831C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness_Auto2.uasset'
+[2025.05.07-22.40.19:160][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Body] ([1] browsable assets)...
+[2025.05.07-22.40.19:160][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Body]
+[2025.05.07-22.40.19:161][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Body_Auto2
+[2025.05.07-22.40.19:162][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Body_Auto2C689D98A4FC218AE1CC637AB77D8826F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Body_Auto2.uasset'
+[2025.05.07-22.40.19:163][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal] ([1] browsable assets)...
+[2025.05.07-22.40.19:163][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal]
+[2025.05.07-22.40.19:165][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal_Auto2
+[2025.05.07-22.40.19:166][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Bottom_normal_Auto2150B82A847649E907CC84495B7CAEFE3.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal_Auto2.uasset'
+[2025.05.07-22.40.19:168][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness] ([1] browsable assets)...
+[2025.05.07-22.40.19:168][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness]
+[2025.05.07-22.40.19:171][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness_Auto2
+[2025.05.07-22.40.19:171][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hair_roughness_Auto219E236BF4CEABE87E04B589633C2A6EC.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness_Auto2.uasset'
+[2025.05.07-22.40.19:173][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Bottoms] ([1] browsable assets)...
+[2025.05.07-22.40.19:173][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Bottoms]
+[2025.05.07-22.40.19:176][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Bottoms_Auto2
+[2025.05.07-22.40.19:177][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Bottoms_Auto29CD2F1394CB5F006EE85B298D9315E2D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Bottoms_Auto2.uasset'
+[2025.05.07-22.40.19:178][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Hair] ([1] browsable assets)...
+[2025.05.07-22.40.19:178][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Hair]
+[2025.05.07-22.40.19:180][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Hair_Auto2
+[2025.05.07-22.40.19:180][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Hair_Auto2370D0FA94957F52975146792B3ADD16E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Hair_Auto2.uasset'
+[2025.05.07-22.40.19:182][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Hats] ([1] browsable assets)...
+[2025.05.07-22.40.19:182][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Hats]
+[2025.05.07-22.40.19:184][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Hats_Auto2
+[2025.05.07-22.40.19:184][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Hats_Auto263F3E20F45972A5316EA498003AC7139.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Hats_Auto2.uasset'
+[2025.05.07-22.40.19:187][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8] ([1] browsable assets)...
+[2025.05.07-22.40.19:187][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8]
+[2025.05.07-22.40.19:218][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Auto2
+[2025.05.07-22.40.19:219][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zom_8_Auto2810FCB374DA827FFD0E3E2BB241A1CA3.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Auto2.uasset'
+[2025.05.07-22.40.19:221][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Attack] ([1] browsable assets)...
+[2025.05.07-22.40.19:221][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Attack]
+[2025.05.07-22.40.19:228][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Attack_Auto2
+[2025.05.07-22.40.19:228][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Attack_Auto28CD150F84A65977B8812CFA89517A734.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Attack_Auto2.uasset'
+[2025.05.07-22.40.19:230][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_1] ([1] browsable assets)...
+[2025.05.07-22.40.19:230][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_1]
+[2025.05.07-22.40.19:239][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Biting_1_Auto2
+[2025.05.07-22.40.19:239][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Biting_1_Auto212854C1B448EE710BB21D79F0D36EBA5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Biting_1_Auto2.uasset'
+[2025.05.07-22.40.19:241][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/T-Pose] ([1] browsable assets)...
+[2025.05.07-22.40.19:241][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/T-Pose]
+[2025.05.07-22.40.19:249][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/T-Pose_Auto2
+[2025.05.07-22.40.19:249][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T-Pose_Auto27C63B63C4642CA1DEFC3C196544C097F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/T-Pose_Auto2.uasset'
+[2025.05.07-22.40.19:251][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Walk] ([1] browsable assets)...
+[2025.05.07-22.40.19:251][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Walk]
+[2025.05.07-22.40.19:258][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Walk_Auto2
+[2025.05.07-22.40.19:259][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Walk_Auto27D0A083A4145326B6CF16CBCF3C7674C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Walk_Auto2.uasset'
+[2025.05.07-22.40.19:260][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_2] ([1] browsable assets)...
+[2025.05.07-22.40.19:260][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_2]
+[2025.05.07-22.40.19:267][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Biting_2_Auto2
+[2025.05.07-22.40.19:268][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Biting_2_Auto2E635438D40FBE50A870CDB975B090E6E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Biting_2_Auto2.uasset'
+[2025.05.07-22.40.19:269][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Crawl] ([1] browsable assets)...
+[2025.05.07-22.40.19:269][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Crawl]
+[2025.05.07-22.40.19:278][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Crawl_Auto2
+[2025.05.07-22.40.19:279][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Crawl_Auto23581E5C442AA5C17460AA39D1C14ED57.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Crawl_Auto2.uasset'
+[2025.05.07-22.40.19:280][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Dying] ([1] browsable assets)...
+[2025.05.07-22.40.19:280][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Dying]
+[2025.05.07-22.40.19:288][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Dying_Auto2
+[2025.05.07-22.40.19:288][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Dying_Auto284639B7D45842E48081C00A3F77E4867.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Dying_Auto2.uasset'
+[2025.05.07-22.40.19:290][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Idle] ([1] browsable assets)...
+[2025.05.07-22.40.19:290][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Idle]
+[2025.05.07-22.40.19:298][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Idle_Auto2
+[2025.05.07-22.40.19:299][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Idle_Auto213FF62C8400A13BEC5C2D1A3FB105061.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Idle_Auto2.uasset'
+[2025.05.07-22.40.19:300][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite] ([1] browsable assets)...
+[2025.05.07-22.40.19:300][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite]
+[2025.05.07-22.40.19:309][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite_Auto2
+[2025.05.07-22.40.19:310][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Neck_Bite_Auto273CF29004F2C04E37A190BB6FE4B533E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite_Auto2.uasset'
+[2025.05.07-22.40.19:311][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Run] ([1] browsable assets)...
+[2025.05.07-22.40.19:311][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Run]
+[2025.05.07-22.40.19:318][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Run_Auto2
+[2025.05.07-22.40.19:318][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Run_Auto2190C3B7A4D8C74A778C1629D0C590116.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Run_Auto2.uasset'
+[2025.05.07-22.40.19:320][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Scream] ([1] browsable assets)...
+[2025.05.07-22.40.19:320][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Scream]
+[2025.05.07-22.40.19:327][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Scream_Auto2
+[2025.05.07-22.40.19:328][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Scream_Auto2619BF09F403844492A4471B58FA30D25.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Scream_Auto2.uasset'
+[2025.05.07-22.40.19:329][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Death] ([1] browsable assets)...
+[2025.05.07-22.40.19:329][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Death]
+[2025.05.07-22.40.19:336][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Death_Auto2
+[2025.05.07-22.40.19:337][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Death_Auto2C45093F7407E28BE04BF6B9C2C0C8219.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Death_Auto2.uasset'
+[2025.05.07-22.40.19:338][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl] ([1] browsable assets)...
+[2025.05.07-22.40.19:338][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl]
+[2025.05.07-22.40.19:345][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl_Auto2
+[2025.05.07-22.40.19:346][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Running_Crawl_Auto230035B6D4C23211628457784CD8E2384.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl_Auto2.uasset'
+[2025.05.07-22.40.19:347][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset] ([1] browsable assets)...
+[2025.05.07-22.40.19:347][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset]
+[2025.05.07-22.40.19:359][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset_Auto2
+[2025.05.07-22.40.19:360][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_PhysicsAs2C06D4A545932DE6F6834EA7B77B4034.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset_Auto2.uasset'
+[2025.05.07-22.40.19:361][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton] ([1] browsable assets)...
+[2025.05.07-22.40.19:361][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton]
+[2025.05.07-22.40.19:363][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton_Auto2
+[2025.05.07-22.40.19:364][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_Skeleton_913A7A2B42485A6DA02845AD63CE5F9B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton_Auto2.uasset'
+[2025.05.07-22.40.19:365][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0] ([1] browsable assets)...
+[2025.05.07-22.40.19:365][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0]
+[2025.05.07-22.40.19:420][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0_Auto2
+[2025.05.07-22.40.19:421][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_0E4CC4D7442C704BB31F36CBD3A38188E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0_Auto2.uasset'
+[2025.05.07-22.40.19:422][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1] ([1] browsable assets)...
+[2025.05.07-22.40.19:422][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1]
+[2025.05.07-22.40.19:483][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1_Auto2
+[2025.05.07-22.40.19:484][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_1836FCD8B4FE73B2C92810EB5727A882C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1_Auto2.uasset'
+[2025.05.07-22.40.19:485][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2] ([1] browsable assets)...
+[2025.05.07-22.40.19:485][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2]
+[2025.05.07-22.40.19:534][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2_Auto2
+[2025.05.07-22.40.19:535][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_27CA2548945776E46B325A3B57921F0A4.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2_Auto2.uasset'
+[2025.05.07-22.40.19:536][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3] ([1] browsable assets)...
+[2025.05.07-22.40.19:536][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3]
+[2025.05.07-22.40.19:586][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3_Auto2
+[2025.05.07-22.40.19:587][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_3A667699547578E51596D38BB26DAE925.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3_Auto2.uasset'
+[2025.05.07-22.40.19:589][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/PackedMaterial0] ([1] browsable assets)...
+[2025.05.07-22.40.19:589][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/PackedMaterial0]
+[2025.05.07-22.40.19:590][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/PackedMaterial0_Auto2
+[2025.05.07-22.40.19:591][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/PackedMaterial0_Auto2E2533D344915428DE4C7E0B38E8F9E7B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/PackedMaterial0_Auto2.uasset'
+[2025.05.07-22.40.19:594][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated] ([1] browsable assets)...
+[2025.05.07-22.40.19:594][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated]
+[2025.05.07-22.40.19:618][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Auto2
+[2025.05.07-22.40.19:619][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_Auto233C82F824EBBFF876E62ADA3DCA6BAD1.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Auto2.uasset'
+[2025.05.07-22.40.19:622][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim] ([1] browsable assets)...
+[2025.05.07-22.40.19:622][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim]
+[2025.05.07-22.40.19:628][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim_Auto2
+[2025.05.07-22.40.19:629][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_Anim_Auto8E9951CE41A8E0851DB7F7AEEEED3AA6.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim_Auto2.uasset'
+[2025.05.07-22.40.19:631][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/NewAnimBlueprint] ([2] browsable assets)...
+[2025.05.07-22.40.19:631][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/NewAnimBlueprint]
+[2025.05.07-22.40.19:634][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/NewAnimBlueprint_Auto2
+[2025.05.07-22.40.19:634][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/NewAnimBlueprint_Auto2BA7A8302423724980B3B4D854C671655.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/NewAnimBlueprint_Auto2.uasset'
+[2025.05.07-22.40.19:636][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/ABP_Zombie] ([2] browsable assets)...
+[2025.05.07-22.40.19:636][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/ABP_Zombie]
+[2025.05.07-22.40.19:642][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/ABP_Zombie_Auto2
+[2025.05.07-22.40.19:642][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ABP_Zombie_Auto210F0DBCE437B17E7BCCAC58BC7CC8623.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/ABP_Zombie_Auto2.uasset'
+[2025.05.07-22.40.19:643][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage] ([1] browsable assets)...
+[2025.05.07-22.40.19:711][147]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage.Attack_Montage]
+[2025.05.07-22.40.19:711][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage]
+[2025.05.07-22.40.19:713][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage_Auto2
+[2025.05.07-22.40.19:713][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Attack_Montage_Auto24C89FF4B466612EB52E5E488CA041AC5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage_Auto2.uasset'
+[2025.05.07-22.40.19:714][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale] ([1] browsable assets)...
+[2025.05.07-22.40.19:714][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale]
+[2025.05.07-22.40.19:718][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale_Auto2
+[2025.05.07-22.40.19:718][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/SK_ZombieFemale_Auto2264003C14173374858F76F9FBF8968BE.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale_Auto2.uasset'
+[2025.05.07-22.40.19:718][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/ABP_RealZomb] ([2] browsable assets)...
+[2025.05.07-22.40.19:718][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/ABP_RealZomb]
+[2025.05.07-22.40.19:725][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/ABP_RealZomb_Auto2
+[2025.05.07-22.40.19:725][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ABP_RealZomb_Auto2B35638F549CCCEFB35BC9692E0CE92D7.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Enemy/ABP_RealZomb_Auto2.uasset'
+[2025.05.07-22.40.19:726][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage] ([1] browsable assets)...
+[2025.05.07-22.40.19:726][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage]
+[2025.05.07-22.40.19:727][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage_Auto2
+[2025.05.07-22.40.19:727][147]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ANMS_ZombieFemaleAttackForward05F5DF4B1244E804649D63C1917B02E4C9.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage_Auto2.uasset'
+[2025.05.07-22.40.19:728][147]LogFileHelpers: Auto-saving content packages took 0.901
+[2025.05.07-22.44.09:976][116]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_488
+	Function /Game/Enemy/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.05.07-22.44.09:994][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RealZomb_C /Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RealZomb_C_148
+	Function /Game/Enemy/ABP_RealZomb.ABP_RealZomb_C:ExecuteUbergraph_ABP_RealZomb:0040
+[2025.05.07-22.44.10:354][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RealZomb_C /Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RealZomb_C_149
+	Function /Game/Enemy/ABP_RealZomb.ABP_RealZomb_C:ExecuteUbergraph_ABP_RealZomb:0040
+[2025.05.07-22.44.10:374][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RealZomb_C /Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RealZomb_C_150
+	Function /Game/Enemy/ABP_RealZomb.ABP_RealZomb_C:ExecuteUbergraph_ABP_RealZomb:0040
+[2025.05.07-22.44.10:391][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RealZomb_C /Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RealZomb_C_151
+	Function /Game/Enemy/ABP_RealZomb.ABP_RealZomb_C:ExecuteUbergraph_ABP_RealZomb:0040
+[2025.05.07-22.44.10:410][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RealZomb_C /Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RealZomb_C_152
+	Function /Game/Enemy/ABP_RealZomb.ABP_RealZomb_C:ExecuteUbergraph_ABP_RealZomb:0040
+[2025.05.07-22.44.10:431][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RealZomb_C /Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RealZomb_C_153
+	Function /Game/Enemy/ABP_RealZomb.ABP_RealZomb_C:ExecuteUbergraph_ABP_RealZomb:0040
+[2025.05.07-22.44.10:451][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_489
+	Function /Game/Enemy/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.05.07-22.44.10:469][146]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_490
+	Function /Game/Enemy/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.05.07-22.44.42:771][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59511.585938
+[2025.05.07-22.44.43:772][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.07-22.44.43:772][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59512.250000, Update Interval: 351.135590
+[2025.05.07-22.45.37:931][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-22.45.38:027][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.07-22.45.38:056][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.07-22.45.38:083][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.07-22.45.38:091][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/1O/ANKY0M97ZU0A81CULB9RTD
+[2025.05.07-22.45.38:091][993]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ANKY0M97ZU0A81CULB9RTD5936F89F45B778FFB43610948FA7DF50.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/1O/ANKY0M97ZU0A81CULB9RTD.uasset'
+[2025.05.07-22.45.38:106][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.147 ms (total: 1.13 sec)
+[2025.05.07-22.45.38:175][993]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.07-22.45.38:175][993]LogContentValidation: Enabled validators:
+[2025.05.07-22.45.38:175][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.07-22.45.38:175][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-22.45.38:175][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-22.45.38:175][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.07-22.45.38:175][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-22.45.38:175][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.07-22.45.38:176][993]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
+[2025.05.07-22.45.39:856][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.07-22.45.48:329][ 90]LogSlate: Window 'Save Content' being destroyed
+[2025.05.07-22.45.48:373][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-22.45.48:425][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/ABP_RealZomb] ([2] browsable assets)...
+[2025.05.07-22.45.48:425][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/ABP_RealZomb]
+[2025.05.07-22.45.48:425][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/ABP_RealZomb" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/ABP_RealZomb.uasset" SILENT=true
+[2025.05.07-22.45.48:433][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/ABP_RealZomb
+[2025.05.07-22.45.48:434][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ABP_RealZombB1DAEAD14A01150A7125A1BC6802A59C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/ABP_RealZomb.uasset'
+[2025.05.07-22.45.48:435][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/ABP_Zombie] ([2] browsable assets)...
+[2025.05.07-22.45.48:435][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/ABP_Zombie]
+[2025.05.07-22.45.48:435][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/ABP_Zombie" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/ABP_Zombie.uasset" SILENT=true
+[2025.05.07-22.45.48:442][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/ABP_Zombie
+[2025.05.07-22.45.48:442][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ABP_ZombieD3163DA4468CDAFD0D1027A8AAB0ED8C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/ABP_Zombie.uasset'
+[2025.05.07-22.45.48:789][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage] ([1] browsable assets)...
+[2025.05.07-22.45.48:789][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage]
+[2025.05.07-22.45.48:791][ 90]LogSavePackage: Moving output files for package: /Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage
+[2025.05.07-22.45.48:791][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ANMS_ZombieFemaleAttackForward058818EBDE4E01A224528F40A4CC82957C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage.uasset'
+[2025.05.07-22.45.48:983][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Attack] ([1] browsable assets)...
+[2025.05.07-22.45.48:983][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Attack]
+[2025.05.07-22.45.48:992][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Attack
+[2025.05.07-22.45.48:992][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/AttackE8D65ACF48E413E0E68FBFA0F80793BB.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Attack.uasset'
+[2025.05.07-22.45.49:393][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack_] ([1] browsable assets)...
+[2025.05.07-22.45.49:394][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack_]
+[2025.05.07-22.45.49:398][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack_
+[2025.05.07-22.45.49:398][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Attack_3728F8384B112AD91A485B9405A08B09.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/Attack_.uasset'
+[2025.05.07-22.45.49:402][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage] ([1] browsable assets)...
+[2025.05.07-22.45.49:402][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage]
+[2025.05.07-22.45.49:403][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage
+[2025.05.07-22.45.49:403][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Attack_Montage83AF7BF74AC1D70BBB392799F4568571.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Attack_Montage.uasset'
+[2025.05.07-22.45.49:815][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_1] ([1] browsable assets)...
+[2025.05.07-22.45.49:815][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_1]
+[2025.05.07-22.45.49:825][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Biting_1
+[2025.05.07-22.45.49:825][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Biting_14B1A2A5C42DD62923126D58E56A9B975.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Biting_1.uasset'
+[2025.05.07-22.45.50:231][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_2] ([1] browsable assets)...
+[2025.05.07-22.45.50:231][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Biting_2]
+[2025.05.07-22.45.50:239][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Biting_2
+[2025.05.07-22.45.50:239][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Biting_294A5D82D4BE9CDB073BD5BB98DA29095.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Biting_2.uasset'
+[2025.05.07-22.45.50:640][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1] ([1] browsable assets)...
+[2025.05.07-22.45.50:640][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1]
+[2025.05.07-22.45.50:642][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1
+[2025.05.07-22.45.50:643][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/blinn1A742E8BC46E9A760C97D149C6C26857A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/blinn1.uasset'
+[2025.05.07-22.45.50:645][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Body] ([1] browsable assets)...
+[2025.05.07-22.45.50:645][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Body]
+[2025.05.07-22.45.50:647][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Body
+[2025.05.07-22.45.50:647][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BodyEA1D3B1F44144DD509CFE58429A2A80D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Body.uasset'
+[2025.05.07-22.45.50:649][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Bottoms] ([1] browsable assets)...
+[2025.05.07-22.45.50:649][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Bottoms]
+[2025.05.07-22.45.50:651][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Bottoms
+[2025.05.07-22.45.50:651][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Bottoms3B4037464D6ECDD38A7DA6ADDA570642.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Bottoms.uasset'
+[2025.05.07-22.45.50:652][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/BP_EnemySpawner] ([2] browsable assets)...
+[2025.05.07-22.45.50:652][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_EnemySpawner]
+[2025.05.07-22.45.50:652][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemySpawner" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/BP_EnemySpawner.uasset" SILENT=true
+[2025.05.07-22.45.50:668][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemySpawner
+[2025.05.07-22.45.50:668][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_EnemySpawner9DBC7AD14CFA0E1B955FD4A39FEA7126.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/BP_EnemySpawner.uasset'
+[2025.05.07-22.45.50:670][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/BP_Zombie] ([2] browsable assets)...
+[2025.05.07-22.45.50:670][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_Zombie]
+[2025.05.07-22.45.50:670][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Zombie" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/BP_Zombie.uasset" SILENT=true
+[2025.05.07-22.45.50:681][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Zombie
+[2025.05.07-22.45.50:682][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_Zombie92DF49BB4F8C2F658972E58F2B6CA0FB.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/BP_Zombie.uasset'
+[2025.05.07-22.45.50:684][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Crawl] ([1] browsable assets)...
+[2025.05.07-22.45.50:684][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Crawl]
+[2025.05.07-22.45.50:694][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Crawl
+[2025.05.07-22.45.50:694][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Crawl1755E0AB46490073FA75C1B39BAF9ED7.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Crawl.uasset'
+[2025.05.07-22.45.51:091][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Death] ([1] browsable assets)...
+[2025.05.07-22.45.51:091][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Death]
+[2025.05.07-22.45.51:094][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Death
+[2025.05.07-22.45.51:094][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/DeathDDC0465E444788B77AF62DA7ADEBE58F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/Death.uasset'
+[2025.05.07-22.45.51:098][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Death] ([1] browsable assets)...
+[2025.05.07-22.45.51:098][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Death]
+[2025.05.07-22.45.51:105][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Death
+[2025.05.07-22.45.51:105][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/DeathEC54EC3446F09A3281572E8DDDF0F88F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Death.uasset'
+[2025.05.07-22.45.51:505][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Dying] ([1] browsable assets)...
+[2025.05.07-22.45.51:505][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Dying]
+[2025.05.07-22.45.51:513][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Dying
+[2025.05.07-22.45.51:513][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Dying07A305754924AF7692B73086548CF94C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Dying.uasset'
+[2025.05.07-22.45.51:913][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/Enemy_Actor] ([2] browsable assets)...
+[2025.05.07-22.45.51:913][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Enemy_Actor]
+[2025.05.07-22.45.51:913][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy_Actor" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/Enemy_Actor.uasset" SILENT=true
+[2025.05.07-22.45.51:935][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/Enemy_Actor
+[2025.05.07-22.45.51:936][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Enemy_ActorECBA2F6F4B96D3D1E0B9B98E48592363.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/Enemy_Actor.uasset'
+[2025.05.07-22.45.51:938][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Enemy_Projectile] ([2] browsable assets)...
+[2025.05.07-22.45.51:938][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Enemy_Projectile]
+[2025.05.07-22.45.51:938][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy_Projectile" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/Enemy_Projectile.uasset" SILENT=true
+[2025.05.07-22.45.51:942][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/Enemy_Projectile
+[2025.05.07-22.45.51:943][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Enemy_ProjectileFC0F61A843DBE2E48DC2E5A2DF5C3637.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/Enemy_Projectile.uasset'
+[2025.05.07-22.45.51:945][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Hair] ([1] browsable assets)...
+[2025.05.07-22.45.51:945][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Hair]
+[2025.05.07-22.45.51:947][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Hair
+[2025.05.07-22.45.51:947][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Hair96C2E325452ECA3AC9FD96A7EB70DD35.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Hair.uasset'
+[2025.05.07-22.45.51:949][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Hats] ([1] browsable assets)...
+[2025.05.07-22.45.51:949][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Hats]
+[2025.05.07-22.45.51:951][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Hats
+[2025.05.07-22.45.51:951][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Hats30178D3544FE87442E4225B90E56C981.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Hats.uasset'
+[2025.05.07-22.45.51:952][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle] ([1] browsable assets)...
+[2025.05.07-22.45.51:952][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle]
+[2025.05.07-22.45.51:955][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle
+[2025.05.07-22.45.51:955][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/IdleB14112B949C18C42AC95828C40D64404.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/Idle.uasset'
+[2025.05.07-22.45.51:957][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Idle] ([1] browsable assets)...
+[2025.05.07-22.45.51:957][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Idle]
+[2025.05.07-22.45.51:968][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Idle
+[2025.05.07-22.45.51:968][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Idle99C7A91A45D320303C0B04A3A686B617.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Idle.uasset'
+[2025.05.07-22.45.52:353][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1] ([1] browsable assets)...
+[2025.05.07-22.45.52:353][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1]
+[2025.05.07-22.45.52:355][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1
+[2025.05.07-22.45.52:355][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/lambert1F24C4353440356B0E38B7E998658847F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/lambert1.uasset'
+[2025.05.07-22.45.52:358][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation] ([1] browsable assets)...
+[2025.05.07-22.45.52:358][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation]
+[2025.05.07-22.45.52:369][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation
+[2025.05.07-22.45.52:369][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation6B26218F4A03023160B607B5B3B04499.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation.uasset'
+[2025.05.07-22.45.52:372][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset] ([1] browsable assets)...
+[2025.05.07-22.45.52:372][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset]
+[2025.05.07-22.45.52:379][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset
+[2025.05.07-22.45.52:379][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_PB872982F4F8024666E8BE8AE2B133C0B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset.uasset'
+[2025.05.07-22.45.52:382][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton] ([1] browsable assets)...
+[2025.05.07-22.45.52:383][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton]
+[2025.05.07-22.45.52:384][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton
+[2025.05.07-22.45.52:384][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_S649623B24C852E693DAD3DA95FF2E741.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton.uasset'
+[2025.05.07-22.45.52:387][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0] ([1] browsable assets)...
+[2025.05.07-22.45.52:387][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0]
+[2025.05.07-22.45.52:408][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0
+[2025.05.07-22.45.52:408][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_t022E9A234E3531BF0ECCFDB23C9E15B7.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0.uasset'
+[2025.05.07-22.45.52:410][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1] ([1] browsable assets)...
+[2025.05.07-22.45.52:410][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1]
+[2025.05.07-22.45.52:432][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1
+[2025.05.07-22.45.52:432][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_tA91CF834459287C84D9801BB333BEAB5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1.uasset'
+[2025.05.07-22.45.52:435][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2] ([1] browsable assets)...
+[2025.05.07-22.45.52:435][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2]
+[2025.05.07-22.45.52:456][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2
+[2025.05.07-22.45.52:456][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/low_poly_zombie_game_animation_t7C73C104429E28602D522E8EE6B4F55E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2.uasset'
+[2025.05.07-22.45.52:458][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite] ([1] browsable assets)...
+[2025.05.07-22.45.52:458][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite]
+[2025.05.07-22.45.52:468][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite
+[2025.05.07-22.45.52:468][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Neck_BiteC1C233774EF353CD03E9EBBB698F43D9.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Neck_Bite.uasset'
+[2025.05.07-22.45.52:855][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/NewAnimBlueprint] ([2] browsable assets)...
+[2025.05.07-22.45.52:855][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/NewAnimBlueprint]
+[2025.05.07-22.45.52:855][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/NewAnimBlueprint" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/NewAnimBlueprint.uasset" SILENT=true
+[2025.05.07-22.45.52:858][ 90]LogSavePackage: Moving output files for package: /Game/Enemy/NewAnimBlueprint
+[2025.05.07-22.45.52:858][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/NewAnimBlueprintBF76C59641306268F907E791659B081F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Enemy/NewAnimBlueprint.uasset'
+[2025.05.07-22.45.53:190][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/PackedMaterial0] ([1] browsable assets)...
+[2025.05.07-22.45.53:190][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/PackedMaterial0]
+[2025.05.07-22.45.53:192][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/PackedMaterial0
+[2025.05.07-22.45.53:192][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/PackedMaterial0475271FF44FD0835DB60C0BFC2735B84.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/PackedMaterial0.uasset'
+[2025.05.07-22.45.53:194][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Run] ([1] browsable assets)...
+[2025.05.07-22.45.53:194][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Run]
+[2025.05.07-22.45.53:201][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Run
+[2025.05.07-22.45.53:201][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/RunC1EBFD4E424E9840979E3C95301C4DE0.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Run.uasset'
+[2025.05.07-22.45.53:591][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl] ([1] browsable assets)...
+[2025.05.07-22.45.53:591][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl]
+[2025.05.07-22.45.53:599][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl
+[2025.05.07-22.45.53:599][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Running_CrawlBC2D7DD241B725B532B4CEA088DC6E63.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Running_Crawl.uasset'
+[2025.05.07-22.45.53:981][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Scream] ([1] browsable assets)...
+[2025.05.07-22.45.53:981][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Scream]
+[2025.05.07-22.45.53:988][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Scream
+[2025.05.07-22.45.53:988][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Scream21CA898D4EBB30394069F0BBAE2F9505.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Scream.uasset'
+[2025.05.07-22.45.54:372][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale] ([1] browsable assets)...
+[2025.05.07-22.45.54:372][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale]
+[2025.05.07-22.45.54:376][ 90]LogSavePackage: Moving output files for package: /Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale
+[2025.05.07-22.45.54:377][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/SK_ZombieFemaleB5D52631468F6C1467070FA4051E2F61.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/ZombieFemale/Asset/Meshes/SK_ZombieFemale.uasset'
+[2025.05.07-22.45.54:379][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/T-Pose] ([1] browsable assets)...
+[2025.05.07-22.45.54:379][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/T-Pose]
+[2025.05.07-22.45.54:386][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/T-Pose
+[2025.05.07-22.45.54:386][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T-PoseA730449E4EC0CE55BC565A98BE3AFBEF.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/T-Pose.uasset'
+[2025.05.07-22.45.54:766][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Tops] ([1] browsable assets)...
+[2025.05.07-22.45.54:766][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Tops]
+[2025.05.07-22.45.54:768][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Tops
+[2025.05.07-22.45.54:768][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Tops3CBCD5E04CC0F861BA569BADAE3B6BF1.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Tops.uasset'
+[2025.05.07-22.45.54:771][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/Walk] ([1] browsable assets)...
+[2025.05.07-22.45.54:771][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/Walk]
+[2025.05.07-22.45.54:778][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/Walk
+[2025.05.07-22.45.54:778][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Walk596434D54A154AC513A8EDB5A3BFABB4.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/Walk.uasset'
+[2025.05.07-22.45.55:156][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk] ([1] browsable assets)...
+[2025.05.07-22.45.55:156][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk]
+[2025.05.07-22.45.55:160][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk
+[2025.05.07-22.45.55:160][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/WalkB47C17D24B434FCAA7883797CD270D07.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Low_Poly_Zombie__Game_Animation_/Walk.uasset'
+[2025.05.07-22.45.55:164][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8] ([1] browsable assets)...
+[2025.05.07-22.45.55:164][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8]
+[2025.05.07-22.45.55:196][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/zom_8
+[2025.05.07-22.45.55:196][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zom_88F6E27594CF08943BEE14CA93AE02533.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/zom_8.uasset'
+[2025.05.07-22.45.55:575][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse] ([1] browsable assets)...
+[2025.05.07-22.45.55:575][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse]
+[2025.05.07-22.45.55:594][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse
+[2025.05.07-22.45.55:594][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Body_diffuse3E0D33734E2ED333E9E9CE903BFBE216.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse.uasset'
+[2025.05.07-22.45.55:597][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal] ([1] browsable assets)...
+[2025.05.07-22.45.55:597][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal]
+[2025.05.07-22.45.55:617][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal
+[2025.05.07-22.45.55:617][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Body_normalEA0F137646A12AB0FD413189C401CF5B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal.uasset'
+[2025.05.07-22.45.55:619][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness] ([1] browsable assets)...
+[2025.05.07-22.45.55:619][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness]
+[2025.05.07-22.45.55:629][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness
+[2025.05.07-22.45.55:629][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Body_roughness22ABE1D246450CE3A19C9D8B83BCD3CE.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness.uasset'
+[2025.05.07-22.45.55:631][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse] ([1] browsable assets)...
+[2025.05.07-22.45.55:631][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse]
+[2025.05.07-22.45.55:639][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse
+[2025.05.07-22.45.55:639][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Bottom_diffuse64C42C854A94A46F1BD7FAB557FBB19D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse.uasset'
+[2025.05.07-22.45.55:641][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal] ([1] browsable assets)...
+[2025.05.07-22.45.55:641][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal]
+[2025.05.07-22.45.55:651][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal
+[2025.05.07-22.45.55:651][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Bottom_normal80BD838B441C5138C82CEC9D013EA223.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal.uasset'
+[2025.05.07-22.45.55:653][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness] ([1] browsable assets)...
+[2025.05.07-22.45.55:653][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness]
+[2025.05.07-22.45.55:658][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness
+[2025.05.07-22.45.55:658][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Bottom_roughness20D6AC2E4A25A6E2B8481F9AD43B5CE9.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness.uasset'
+[2025.05.07-22.45.55:659][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse] ([1] browsable assets)...
+[2025.05.07-22.45.55:659][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse]
+[2025.05.07-22.45.55:665][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse
+[2025.05.07-22.45.55:666][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hair_diffuse93C239B749E0B869C03F33BC55DFCD03.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse.uasset'
+[2025.05.07-22.45.55:667][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal] ([1] browsable assets)...
+[2025.05.07-22.45.55:667][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal]
+[2025.05.07-22.45.55:675][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal
+[2025.05.07-22.45.55:675][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hair_normalCCC0C9E440E9AD3CF7460295C8F33131.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal.uasset'
+[2025.05.07-22.45.55:676][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness] ([1] browsable assets)...
+[2025.05.07-22.45.55:676][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness]
+[2025.05.07-22.45.55:681][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness
+[2025.05.07-22.45.55:681][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hair_roughnessD3E00EBB43F506B49315439F4A050E93.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness.uasset'
+[2025.05.07-22.45.55:682][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse] ([1] browsable assets)...
+[2025.05.07-22.45.55:682][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse]
+[2025.05.07-22.45.55:690][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse
+[2025.05.07-22.45.55:690][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hat_diffuseDBF1AA794E6D6FF3ABDB62A0EEE6BE22.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse.uasset'
+[2025.05.07-22.45.55:692][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal] ([1] browsable assets)...
+[2025.05.07-22.45.55:692][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal]
+[2025.05.07-22.45.55:700][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal
+[2025.05.07-22.45.55:701][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hat_normal4357F10D45E432718CF3D190F4134758.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal.uasset'
+[2025.05.07-22.45.55:703][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness] ([1] browsable assets)...
+[2025.05.07-22.45.55:703][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness]
+[2025.05.07-22.45.55:707][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness
+[2025.05.07-22.45.55:707][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Hat_roughness45EC24C94B7EF8D01205FE9EE1EFE29F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness.uasset'
+[2025.05.07-22.45.55:709][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset] ([1] browsable assets)...
+[2025.05.07-22.45.55:709][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset]
+[2025.05.07-22.45.55:721][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset
+[2025.05.07-22.45.55:721][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zom_8_PhysicsAsset7B7D758F4A836BB4F1B1A8A5D388D150.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset.uasset'
+[2025.05.07-22.45.56:103][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton] ([1] browsable assets)...
+[2025.05.07-22.45.56:103][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton]
+[2025.05.07-22.45.56:104][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton
+[2025.05.07-22.45.56:104][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zom_8_SkeletonBF31F950458CAB952F9D949F8D6B99F2.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton.uasset'
+[2025.05.07-22.45.56:486][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse] ([1] browsable assets)...
+[2025.05.07-22.45.56:486][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse]
+[2025.05.07-22.45.56:495][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse
+[2025.05.07-22.45.56:495][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Top_diffuseF78FAC4642E5DBDCF0D00BAA2EB270C7.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse.uasset'
+[2025.05.07-22.45.56:498][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal] ([1] browsable assets)...
+[2025.05.07-22.45.56:498][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal]
+[2025.05.07-22.45.56:507][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal
+[2025.05.07-22.45.56:507][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Top_normalF8EAE3F246D82C75D79E0C81D8579EC9.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal.uasset'
+[2025.05.07-22.45.56:509][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness] ([1] browsable assets)...
+[2025.05.07-22.45.56:509][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness]
+[2025.05.07-22.45.56:515][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness
+[2025.05.07-22.45.56:515][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/ZOM_8_Top_roughness0D728590423FD9883B897BAB43FFB9EF.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness.uasset'
+[2025.05.07-22.45.56:518][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated] ([1] browsable assets)...
+[2025.05.07-22.45.56:518][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated]
+[2025.05.07-22.45.56:544][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated
+[2025.05.07-22.45.56:544][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated53D404874E51B987B3B5EBADB44E7FD2.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated.uasset'
+[2025.05.07-22.45.56:870][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim] ([1] browsable assets)...
+[2025.05.07-22.45.56:871][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim]
+[2025.05.07-22.45.56:877][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim
+[2025.05.07-22.45.56:877][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_Anim3D00A7BA4C4E1F94B781558C248C274E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim.uasset'
+[2025.05.07-22.45.57:210][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset] ([1] browsable assets)...
+[2025.05.07-22.45.57:210][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset]
+[2025.05.07-22.45.57:221][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset
+[2025.05.07-22.45.57:221][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_PhysicsAsA1AA34D44CA2336CF4E81296C9A82F32.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset.uasset'
+[2025.05.07-22.45.57:549][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton] ([1] browsable assets)...
+[2025.05.07-22.45.57:549][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton]
+[2025.05.07-22.45.57:551][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton
+[2025.05.07-22.45.57:551][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_Skeleton38AA4304477C6B7D7A3357B61576EA33.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton.uasset'
+[2025.05.07-22.45.57:878][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0] ([1] browsable assets)...
+[2025.05.07-22.45.57:878][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0]
+[2025.05.07-22.45.58:017][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0
+[2025.05.07-22.45.58:017][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_03F1F26BE4B59A748F4E99F85E06BF8DD.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0.uasset'
+[2025.05.07-22.45.58:020][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1] ([1] browsable assets)...
+[2025.05.07-22.45.58:020][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1]
+[2025.05.07-22.45.58:110][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1
+[2025.05.07-22.45.58:110][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_1499A89B74CA78C89682A77AD28845AF1.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1.uasset'
+[2025.05.07-22.45.58:112][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2] ([1] browsable assets)...
+[2025.05.07-22.45.58:112][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2]
+[2025.05.07-22.45.58:239][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2
+[2025.05.07-22.45.58:239][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_2A874233346821F7400E56BAB43FB5CFA.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2.uasset'
+[2025.05.07-22.45.58:241][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3] ([1] browsable assets)...
+[2025.05.07-22.45.58:241][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3]
+[2025.05.07-22.45.58:337][ 90]LogSavePackage: Moving output files for package: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3
+[2025.05.07-22.45.58:337][ 90]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/zombie_female_animated_texture_3DBC6463A48C3832F3698CA8E75BE8863.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3.uasset'
+[2025.05.07-22.45.58:345][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.97 sec (total: 11.1 sec)
+[2025.05.07-22.45.58:439][ 90]LogStall: Shutdown...
+[2025.05.07-22.45.58:439][ 90]LogStall: Shutdown complete.
+[2025.05.07-22.45.58:536][ 90]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.58:536][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:063][ 90]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:064][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:302][ 90]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:302][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:336][ 90]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:337][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:561][ 90]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:561][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:583][ 90]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:583][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:758][ 90]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:758][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:775][ 90]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:775][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.45.59:800][ 90]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.45.59:801][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:098][ 90]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:098][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:126][ 90]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:126][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:297][ 90]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:297][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:318][ 90]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:318][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:343][ 90]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:343][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:514][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.07-22.46.00:515][ 90]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:515][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:651][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.07-22.46.00:651][ 90]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:651][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:834][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.07-22.46.00:834][ 90]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.00:834][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.00:947][ 90]LogSlate: Window 'SK_ZombieFemale' being destroyed
+[2025.05.07-22.46.01:005][ 90]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:005][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:025][ 90]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:025][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:106][ 90]LogSlate: Window 'Content Browser' being destroyed
+[2025.05.07-22.46.01:127][ 90]LogSlate: Window 'Fab' being destroyed
+[2025.05.07-22.46.01:131][ 90]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: Display: Starting to validate 67 assets
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: Enabled validators:
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-22.46.01:588][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Enemy/ABP_RealZomb Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Enemy/ABP_Zombie Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/ZombieFemale/Asset/Animations/ANMS_ZombieFemaleAttackForward05_Montage Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Attack Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Attack_ Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Attack_Montage Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Biting_1 Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Biting_2 Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/blinn1 Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Body Validating asset
+[2025.05.07-22.46.01:588][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Bottoms Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Enemy/BP_EnemySpawner Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Enemy/BP_Zombie Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Crawl Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Death Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Death Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Dying Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Enemy/Enemy_Actor Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Enemy/Enemy_Projectile Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Hair Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Hats Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Idle Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Idle Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/lambert1 Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_PhysicsAsset Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_Skeleton Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_0 Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_1 Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/low_poly_zombie_game_animation_texture_2 Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Neck_Bite Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Enemy/NewAnimBlueprint Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/PackedMaterial0 Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Run Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Running_Crawl Validating asset
+[2025.05.07-22.46.01:589][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Scream Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/ZombieFemale/Asset/Meshes/SK_ZombieFemale Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/T-Pose Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Tops Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/Walk Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Low_Poly_Zombie__Game_Animation_/Walk Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/zom_8 Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_diffuse Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_normal Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Body_roughness Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_diffuse Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_normal Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Bottom_roughness Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_diffuse Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_normal Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hair_roughness Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_diffuse Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_normal Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Hat_roughness Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/zom_8_PhysicsAsset Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/zom_8_Skeleton Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_diffuse Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_normal Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Number_8_-_Animated/ZOM_8_Top_roughness Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Anim Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_PhysicsAsset Validating asset
+[2025.05.07-22.46.01:590][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_Skeleton Validating asset
+[2025.05.07-22.46.01:591][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_0 Validating asset
+[2025.05.07-22.46.01:591][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_1 Validating asset
+[2025.05.07-22.46.01:591][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_2 Validating asset
+[2025.05.07-22.46.01:591][ 90]AssetCheck: /Game/Fab/Zombie_Female_-_Animated/zombie_female_animated_texture_3 Validating asset
+[2025.05.07-22.46.01:663][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.07-22.46.01:752][ 90]LogAutomationController: Ignoring very large delta of 21.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.07-22.46.01:754][ 90]Cmd: QUIT_EDITOR
+[2025.05.07-22.46.01:754][ 90]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.07-22.46.01:768][ 91]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.07-22.46.01:769][ 91]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.07-22.46.01:769][ 91]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.07-22.46.01:775][ 91]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:775][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:775][ 91]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2025.05.07-22.46.01:811][ 91]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.07-22.46.01:821][ 91]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.07-22.46.01:847][ 91]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:847][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:853][ 91]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:853][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:857][ 91]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:857][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:860][ 91]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:860][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:865][ 91]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:865][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:868][ 91]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:869][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:872][ 91]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:872][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:875][ 91]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:875][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:879][ 91]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:879][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:884][ 91]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:884][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:888][ 91]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:888][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:891][ 91]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:891][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:894][ 91]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:894][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:898][ 91]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:898][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:902][ 91]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:902][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:905][ 91]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:905][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:908][ 91]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:908][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:911][ 91]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:911][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:916][ 91]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:916][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:919][ 91]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:920][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:923][ 91]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:923][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:926][ 91]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:926][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:928][ 91]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:929][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:935][ 91]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:935][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:939][ 91]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:939][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:942][ 91]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:942][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:946][ 91]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:946][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:951][ 91]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:951][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:954][ 91]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:954][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:957][ 91]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:958][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:961][ 91]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:961][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:968][ 91]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:968][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:971][ 91]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:971][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:975][ 91]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:975][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:979][ 91]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-22.46.01:979][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-22.46.01:993][ 91]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.07-22.46.02:006][ 91]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.07-22.46.02:007][ 91]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.07-22.46.02:007][ 91]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.07-22.46.02:294][ 91]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.07-22.46.02:294][ 91]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.07-22.46.02:294][ 91]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2025.05.07-22.46.02:295][ 91]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.07-22.46.02:295][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.07-22.46.02:302][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.07-22.46.02:320][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.07-22.46.02:320][ 91]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.07-22.46.02:326][ 91]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.07-22.46.02:327][ 91]LogExit: Preparing to exit.
+[2025.05.07-22.46.02:406][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.07-22.46.02:417][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:417][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:424][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:427][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:428][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:428][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:428][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:428][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:428][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:428][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:429][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:429][ 91]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.02:429][ 91]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-22.46.03:077][ 91]LogEditorDataStorage: Deinitializing
+[2025.05.07-22.46.03:575][ 91]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.07-22.46.03:810][ 91]LogExit: Editor shut down
+[2025.05.07-22.46.03:840][ 91]LogExit: Transaction tracking system shut down
+[2025.05.07-22.46.05:305][ 91]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 13.
+[2025.05.07-22.46.05:423][ 91]LogExit: Object subsystem successfully closed.
+[2025.05.07-22.46.05:482][ 91]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.07-22.46.06:208][ 91]LogMemoryProfiler: Shutdown
+[2025.05.07-22.46.06:209][ 91]LogNetworkingProfiler: Shutdown
+[2025.05.07-22.46.06:209][ 91]LoadingProfiler: Shutdown
+[2025.05.07-22.46.06:209][ 91]LogTimingProfiler: Shutdown
+[2025.05.07-22.46.06:275][ 91]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/35246f73-70ca-41ac-816b-55ead87dbcbc.
+[2025.05.07-22.46.07:383][ 91]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.07-22.46.07:387][ 91]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.07-22.46.07:388][ 91]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.07-22.46.07:411][ 91]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2025.05.07-22.46.07:411][ 91]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC83C2C37-4E8C-7777-5A75-87B73925710A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.2-39378466%2B%2B%2BUE5%2BRelease-5.5&UserID=b39c1a3048c0bcaf6bbc759f36a4c915%7C08ff4c3c28754d54860bdedd1112572c%7C00705c60-fa2d-4837-9aef-7ed42ef1954b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[3] status=Processing
+[2025.05.07-22.46.07:411][ 91]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC83C2C37-4E8C-7777-5A75-87B73925710A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.2-39378466%2B%2B%2BUE5%2BRelease-5.5&UserID=b39c1a3048c0bcaf6bbc759f36a4c915%7C08ff4c3c28754d54860bdedd1112572c%7C00705c60-fa2d-4837-9aef-7ed42ef1954b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.07-22.46.07:971][ 91]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.07-22.46.07:971][ 91]RenderDocPlugin: plugin has been unloaded.
+[2025.05.07-22.46.07:986][ 91]LogXGEController: Cleaning working directory: C:/Users/21die/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.07-22.46.08:008][ 91]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.07-22.46.08:008][ 91]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.07-22.46.08:009][ 91]LogPakFile: Destroying PakPlatformFile
+[2025.05.07-22.46.09:271][ 91]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.07-22.46.09:349][ 91]LogExit: Exiting.
+[2025.05.07-22.46.09:402][ 91]Log file closed, 05/07/25 17:46:09
