@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"expect_ct":[],"sts":[{"expiry":1747252125.33624,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1746647325.336243},{"expiry":1762199401.089387,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1746647401.08939}],"version":2}
+=======
+{"expect_ct":[],"sts":[{"expiry":1747256082.588463,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1746651282.588467},{"expiry":1762203281.455677,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1746651281.455681}],"version":2}
+>>>>>>> akarsh_branch

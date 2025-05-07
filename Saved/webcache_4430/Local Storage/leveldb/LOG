@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2025/05/07-01:31:41.172 119c Reusing MANIFEST C:/Users/21die/OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 2025/05/07-01:31:41.173 119c Recovering log #3
 2025/05/07-01:31:41.174 119c Reusing old log C:/Users/21die/OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+=======
+2025/05/07-15:54:21.596 1a04 Creating DB C:/Users/akars/Documents/cs415 final/cs415-final/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/05/07-15:54:21.608 1a04 Reusing MANIFEST C:/Users/akars/Documents/cs415 final/cs415-final/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> akarsh_branch
