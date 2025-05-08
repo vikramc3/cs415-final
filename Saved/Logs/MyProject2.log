@@ -5928,3 +5928,357 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.08-03.13.35:893][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/UI/INSTRUCTIONS_Auto3
 [2025.05.08-03.13.35:893][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/INSTRUCTIONS_Auto362A1CF014C4D11D197D722AC94106BC8.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/TopDown/Blueprints/UI/INSTRUCTIONS_Auto3.uasset'
 [2025.05.08-03.13.35:894][453]LogFileHelpers: Auto-saving content packages took 0.983
+[2025.05.08-03.15.45:679][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.15.45:727][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.15.45:727][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.15.45:760][437]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.08-03.15.45:761][437]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacterAC7E95C345CE177C19B5D199949E82A1.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.08-03.15.45:770][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.866 ms (total: 1.82 sec)
+[2025.05.08-03.15.45:822][437]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-03.15.45:822][437]LogContentValidation: Enabled validators:
+[2025.05.08-03.15.45:822][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.15.45:822][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.15.45:822][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.15.45:822][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.15.45:822][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.15.45:822][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.15.45:822][437]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.08-03.15.47:034][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.15.47:094][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.15.47:094][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.15.47:127][513]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.08-03.15.47:128][513]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacterBF704A96414E3D279FD4EDB4DA347BB9.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.08-03.15.47:136][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.650 ms (total: 1.92 sec)
+[2025.05.08-03.15.47:193][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-03.15.47:193][513]LogContentValidation: Enabled validators:
+[2025.05.08-03.15.47:193][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.15.47:193][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.15.47:193][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.15.47:193][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.15.47:193][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.15.47:193][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.15.47:193][513]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.08-03.15.47:319][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.15.47:378][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.15.47:378][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.15.47:413][518]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.08-03.15.47:414][518]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacter06FE8589478A67E18B01D6A634E050B8.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.08-03.15.47:422][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.449 ms (total: 2.02 sec)
+[2025.05.08-03.15.47:477][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-03.15.47:477][518]LogContentValidation: Enabled validators:
+[2025.05.08-03.15.47:477][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.15.47:477][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.15.47:477][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.15.47:477][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.15.47:477][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.15.47:477][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.15.47:477][518]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.08-03.15.47:605][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.15.47:660][524]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.15.47:660][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.15.47:694][524]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.08-03.15.47:694][524]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacter37EA6CEB42B9BA490C5C5E8005858CF7.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.08-03.15.47:705][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.713 ms (total: 2.12 sec)
+[2025.05.08-03.15.47:759][524]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-03.15.47:759][524]LogContentValidation: Enabled validators:
+[2025.05.08-03.15.47:759][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.15.47:759][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.15.47:759][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.15.47:759][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.15.47:759][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.15.47:759][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.15.47:760][524]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.08-03.15.47:883][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.15.47:945][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.15.47:945][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.15.47:978][529]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.08-03.15.47:979][529]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacterFA2D8CF749BB3B532E794CA394004E53.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.08-03.15.47:988][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.031 ms (total: 2.23 sec)
+[2025.05.08-03.15.48:042][529]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-03.15.48:042][529]LogContentValidation: Enabled validators:
+[2025.05.08-03.15.48:042][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.15.48:042][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.15.48:042][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.15.48:042][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.15.48:042][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.15.48:042][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.15.48:042][529]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.08-03.15.48:168][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.15.48:227][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.15.48:227][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.15.48:260][535]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.08-03.15.48:261][535]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacter0752600646D8FAAA58472F8392606BF3.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.08-03.15.48:268][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.115 ms (total: 2.33 sec)
+[2025.05.08-03.15.48:324][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-03.15.48:324][535]LogContentValidation: Enabled validators:
+[2025.05.08-03.15.48:324][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.15.48:324][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.15.48:324][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.15.48:324][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.15.48:324][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.15.48:324][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.15.48:325][535]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.08-03.16.02:766][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.08-03.16.06:341][995]LogSlate: Window 'Save Content' being destroyed
+[2025.05.08-03.16.06:358][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-03.16.06:408][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/UI/INSTRUCTIONS] ([2] browsable assets)...
+[2025.05.08-03.16.06:408][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/UI/INSTRUCTIONS]
+[2025.05.08-03.16.06:414][995]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/UI/INSTRUCTIONS
+[2025.05.08-03.16.06:415][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/INSTRUCTIONS302998C44BA31F999B4BAB97AE295D18.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/UI/INSTRUCTIONS.uasset'
+[2025.05.08-03.16.06:416][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch] ([1] browsable assets)...
+[2025.05.08-03.16.06:416][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch]
+[2025.05.08-03.16.06:422][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Torch/medieval_torch
+[2025.05.08-03.16.06:422][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch6ADA9DE94F9F3CA2990B1BB5BABB8A21.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Torch/medieval_torch.uasset'
+[2025.05.08-03.16.06:427][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch_texture_0] ([1] browsable assets)...
+[2025.05.08-03.16.06:427][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch_texture_0]
+[2025.05.08-03.16.06:481][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Torch/medieval_torch_texture_0
+[2025.05.08-03.16.06:481][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_texture_0553DD69C492CE912347B8783837E1CA0.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Torch/medieval_torch_texture_0.uasset'
+[2025.05.08-03.16.06:483][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch_texture_1] ([1] browsable assets)...
+[2025.05.08-03.16.06:483][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch_texture_1]
+[2025.05.08-03.16.06:516][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Torch/medieval_torch_texture_1
+[2025.05.08-03.16.06:516][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_texture_1D2AFB6864ECD259FF4A7CD96DE2E47E9.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Torch/medieval_torch_texture_1.uasset'
+[2025.05.08-03.16.06:517][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch_texture_2] ([1] browsable assets)...
+[2025.05.08-03.16.06:518][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch_texture_2]
+[2025.05.08-03.16.06:573][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Torch/medieval_torch_texture_2
+[2025.05.08-03.16.06:573][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_texture_27749CCB8441CFE5E6742088D19BBB568.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Torch/medieval_torch_texture_2.uasset'
+[2025.05.08-03.16.06:575][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window] ([1] browsable assets)...
+[2025.05.08-03.16.06:575][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window]
+[2025.05.08-03.16.06:579][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window
+[2025.05.08-03.16.06:579][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window8D6D1F254C43226F42A62AB167FCCB8E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window.uasset'
+[2025.05.08-03.16.06:580][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_0] ([1] browsable assets)...
+[2025.05.08-03.16.06:581][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_0]
+[2025.05.08-03.16.06:652][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_0
+[2025.05.08-03.16.06:653][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_065062B3D40D405F8146E4C9BA5FA122B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_0.uasset'
+[2025.05.08-03.16.06:654][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_1] ([1] browsable assets)...
+[2025.05.08-03.16.06:654][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_1]
+[2025.05.08-03.16.06:673][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_1
+[2025.05.08-03.16.06:673][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_1DD806C9F4C4C9A15E1F9389ED7D888A4.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_1.uasset'
+[2025.05.08-03.16.06:674][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_2] ([1] browsable assets)...
+[2025.05.08-03.16.06:674][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_2]
+[2025.05.08-03.16.06:740][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_2
+[2025.05.08-03.16.06:741][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_2C24AAA4C434C935005D316A5D4273AFF.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_2.uasset'
+[2025.05.08-03.16.06:742][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_3] ([1] browsable assets)...
+[2025.05.08-03.16.06:742][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_3]
+[2025.05.08-03.16.06:771][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_3
+[2025.05.08-03.16.06:771][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_38A93065E4B213CB6AFB524B5B9127797.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_3.uasset'
+[2025.05.08-03.16.06:773][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_4] ([1] browsable assets)...
+[2025.05.08-03.16.06:773][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_4]
+[2025.05.08-03.16.06:798][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_4
+[2025.05.08-03.16.06:798][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_4A7A1B967454E8E5A0D1ABF86311DACA6.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_4.uasset'
+[2025.05.08-03.16.06:800][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_5] ([1] browsable assets)...
+[2025.05.08-03.16.06:800][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_5]
+[2025.05.08-03.16.06:818][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_5
+[2025.05.08-03.16.06:818][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_5F97F45DB42A54B0EE0FA32B8C1855D52.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_5.uasset'
+[2025.05.08-03.16.06:819][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_6] ([1] browsable assets)...
+[2025.05.08-03.16.06:819][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_6]
+[2025.05.08-03.16.06:847][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_6
+[2025.05.08-03.16.06:847][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_67BE848EC494F95D711EAF7B333F24517.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_6.uasset'
+[2025.05.08-03.16.06:850][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_7] ([1] browsable assets)...
+[2025.05.08-03.16.06:850][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_7]
+[2025.05.08-03.16.06:876][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/medieval_window_texture_7
+[2025.05.08-03.16.06:876][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_76F77A3AC4B04A11879DB6BA0C16031A6.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/medieval_window_texture_7.uasset'
+[2025.05.08-03.16.06:878][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw] ([1] browsable assets)...
+[2025.05.08-03.16.06:878][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw]
+[2025.05.08-03.16.06:879][995]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw
+[2025.05.08-03.16.06:879][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/MI_sbxuw4CEB4EE746BC8AB3C77AF38ED00EB166.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw.uasset'
+[2025.05.08-03.16.06:881][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/phong4] ([1] browsable assets)...
+[2025.05.08-03.16.06:881][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/phong4]
+[2025.05.08-03.16.06:881][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Wall_Sconce/phong4" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/phong4.uasset" SILENT=true
+[2025.05.08-03.16.06:883][995]LogSavePackage: Moving output files for package: /Game/Fab/Wall_Sconce/phong4
+[2025.05.08-03.16.06:883][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/phong436431E5B4A0423C20CDA80AB788B453E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/phong4.uasset'
+[2025.05.08-03.16.06:885][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2] ([1] browsable assets)...
+[2025.05.08-03.16.06:885][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2]
+[2025.05.08-03.16.06:896][995]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2
+[2025.05.08-03.16.06:896][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/sbxuw_tier_2FAFA5EFD4B3C2283F3004BA8954F7CD3.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2.uasset'
+[2025.05.08-03.16.06:897][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B] ([1] browsable assets)...
+[2025.05.08-03.16.06:898][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B]
+[2025.05.08-03.16.06:949][995]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B
+[2025.05.08-03.16.06:949][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T_sbxuw_2K_BA816B3394F8612C56AF7A3A761BEAC29.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B.uasset'
+[2025.05.08-03.16.06:951][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N] ([1] browsable assets)...
+[2025.05.08-03.16.06:951][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N]
+[2025.05.08-03.16.07:004][995]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N
+[2025.05.08-03.16.07:005][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T_sbxuw_2K_N5B5FC2254E28ADEDE479C9913BA4EAE2.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N.uasset'
+[2025.05.08-03.16.07:006][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM] ([1] browsable assets)...
+[2025.05.08-03.16.07:006][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM]
+[2025.05.08-03.16.07:063][995]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM
+[2025.05.08-03.16.07:064][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T_sbxuw_2K_ORMEA656141448F7A4E65A95CA8DB8583A4.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM.uasset'
+[2025.05.08-03.16.07:065][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/Torch] ([1] browsable assets)...
+[2025.05.08-03.16.07:065][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/Torch]
+[2025.05.08-03.16.07:065][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Medieval_Torch/Torch" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Torch/Torch.uasset" SILENT=true
+[2025.05.08-03.16.07:067][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Torch/Torch
+[2025.05.08-03.16.07:067][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/TorchB61400924D6EE00F850AFC968E852725.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Torch/Torch.uasset'
+[2025.05.08-03.16.07:068][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Wall] ([1] browsable assets)...
+[2025.05.08-03.16.07:068][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Wall]
+[2025.05.08-03.16.07:068][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Medieval_Window/Wall" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Wall.uasset" SILENT=true
+[2025.05.08-03.16.07:070][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/Wall
+[2025.05.08-03.16.07:070][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Wall579304244F70056F68C4CC91EF4F5824.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Wall.uasset'
+[2025.05.08-03.16.07:072][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Wall_2_Window] ([1] browsable assets)...
+[2025.05.08-03.16.07:072][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Wall_2_Window]
+[2025.05.08-03.16.07:073][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/Wall_2_Window
+[2025.05.08-03.16.07:073][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Wall_2_Window8E685DD64C71AE561AEBF687AF378D08.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Wall_2_Window.uasset'
+[2025.05.08-03.16.07:075][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce] ([1] browsable assets)...
+[2025.05.08-03.16.07:075][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce]
+[2025.05.08-03.16.07:075][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Wall_Sconce/wall_sconce" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/wall_sconce.uasset" SILENT=true
+[2025.05.08-03.16.07:080][995]LogSavePackage: Moving output files for package: /Game/Fab/Wall_Sconce/wall_sconce
+[2025.05.08-03.16.07:080][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce50EB9F3241C58B363153218A034C58B5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/wall_sconce.uasset'
+[2025.05.08-03.16.07:081][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce_texture_0] ([1] browsable assets)...
+[2025.05.08-03.16.07:081][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce_texture_0]
+[2025.05.08-03.16.07:255][995]LogSavePackage: Moving output files for package: /Game/Fab/Wall_Sconce/wall_sconce_texture_0
+[2025.05.08-03.16.07:255][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_texture_0142DF5324F30FE7B9022C7B29C13AA4E.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/wall_sconce_texture_0.uasset'
+[2025.05.08-03.16.07:257][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce_texture_1] ([1] browsable assets)...
+[2025.05.08-03.16.07:257][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce_texture_1]
+[2025.05.08-03.16.07:402][995]LogSavePackage: Moving output files for package: /Game/Fab/Wall_Sconce/wall_sconce_texture_1
+[2025.05.08-03.16.07:402][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_texture_1FF9C14A947CE0D0FFDB17790AF04BA3A.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/wall_sconce_texture_1.uasset'
+[2025.05.08-03.16.07:404][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce_texture_2] ([1] browsable assets)...
+[2025.05.08-03.16.07:404][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce_texture_2]
+[2025.05.08-03.16.07:599][995]LogSavePackage: Moving output files for package: /Game/Fab/Wall_Sconce/wall_sconce_texture_2
+[2025.05.08-03.16.07:600][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_texture_2DAA723ED4AE7663194C954B481223D5C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Wall_Sconce/wall_sconce_texture_2.uasset'
+[2025.05.08-03.16.07:601][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Window_Bars] ([1] browsable assets)...
+[2025.05.08-03.16.07:601][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Window_Bars]
+[2025.05.08-03.16.07:601][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Medieval_Window/Window_Bars" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Window_Bars.uasset" SILENT=true
+[2025.05.08-03.16.07:603][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/Window_Bars
+[2025.05.08-03.16.07:603][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Window_Bars8AFE55BE4D643C6A66CC19B9195B002F.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Window_Bars.uasset'
+[2025.05.08-03.16.07:604][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Window_glass] ([1] browsable assets)...
+[2025.05.08-03.16.07:604][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Window_glass]
+[2025.05.08-03.16.07:604][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Medieval_Window/Window_glass" FILE="../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Window_glass.uasset" SILENT=true
+[2025.05.08-03.16.07:606][995]LogSavePackage: Moving output files for package: /Game/Fab/Medieval_Window/Window_glass
+[2025.05.08-03.16.07:606][995]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Window_glassBB70AC424FC099E2C6775FB72ABDDEFC.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/Fab/Medieval_Window/Window_glass.uasset'
+[2025.05.08-03.16.07:618][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 3.59 sec)
+[2025.05.08-03.16.07:690][995]LogContentValidation: Display: Starting to validate 29 assets
+[2025.05.08-03.16.07:690][995]LogContentValidation: Enabled validators:
+[2025.05.08-03.16.07:690][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-03.16.07:690][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-03.16.07:690][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-03.16.07:690][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-03.16.07:690][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-03.16.07:690][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-03.16.07:691][995]AssetCheck: /Game/TopDown/Blueprints/UI/INSTRUCTIONS Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Torch/medieval_torch Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Torch/medieval_torch_texture_0 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Torch/medieval_torch_texture_1 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Torch/medieval_torch_texture_2 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_0 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_1 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_2 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_3 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_4 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_5 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_6 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/medieval_window_texture_7 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Wall_Sconce/phong4 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Torch/Torch Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/Wall Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Medieval_Window/Wall_2_Window Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Wall_Sconce/wall_sconce Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Wall_Sconce/wall_sconce_texture_0 Validating asset
+[2025.05.08-03.16.07:692][995]AssetCheck: /Game/Fab/Wall_Sconce/wall_sconce_texture_1 Validating asset
+[2025.05.08-03.16.07:693][995]AssetCheck: /Game/Fab/Wall_Sconce/wall_sconce_texture_2 Validating asset
+[2025.05.08-03.16.07:693][995]AssetCheck: /Game/Fab/Medieval_Window/Window_Bars Validating asset
+[2025.05.08-03.16.07:693][995]AssetCheck: /Game/Fab/Medieval_Window/Window_glass Validating asset
+[2025.05.08-03.16.19:597][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.08-03.16.19:674][698]LogStall: Shutdown...
+[2025.05.08-03.16.19:674][698]LogStall: Shutdown complete.
+[2025.05.08-03.16.19:745][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.08-03.16.19:745][698]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.19:745][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.19:806][698]LogSlate: Window 'Content Browser' being destroyed
+[2025.05.08-03.16.19:817][698]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2025.05.08-03.16.19:965][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.08-03.16.19:990][698]Cmd: QUIT_EDITOR
+[2025.05.08-03.16.19:990][699]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.08-03.16.19:995][699]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.08-03.16.19:995][699]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.08-03.16.19:995][699]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.08-03.16.20:009][699]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:009][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:009][699]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2025.05.08-03.16.20:027][699]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.08-03.16.20:028][699]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.08-03.16.20:035][699]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:035][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:038][699]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:038][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:041][699]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:041][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:044][699]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:044][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:047][699]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:048][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:051][699]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:051][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:054][699]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:054][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:056][699]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:056][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:059][699]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:059][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:062][699]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:062][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:064][699]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.16.20:064][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.16.20:067][699]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.08-03.16.20:069][699]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.08-03.16.20:069][699]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.08-03.16.20:069][699]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.08-03.16.20:374][699]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.08-03.16.20:374][699]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.08-03.16.20:374][699]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2025.05.08-03.16.20:374][699]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.08-03.16.20:374][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.08-03.16.20:377][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.08-03.16.20:387][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.08-03.16.20:387][699]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.08-03.16.20:389][699]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.08-03.16.20:389][699]LogExit: Preparing to exit.
+[2025.05.08-03.16.20:419][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.08-03.16.20:424][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:424][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:427][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:428][699]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.08-03.16.20:788][699]LogEditorDataStorage: Deinitializing
+[2025.05.08-03.16.21:031][699]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.08-03.16.21:182][699]LogExit: Editor shut down
+[2025.05.08-03.16.21:189][699]LogExit: Transaction tracking system shut down
+[2025.05.08-03.16.21:515][699]LogExit: Object subsystem successfully closed.
+[2025.05.08-03.16.21:611][699]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.08-03.16.21:850][699]LogMemoryProfiler: Shutdown
+[2025.05.08-03.16.21:850][699]LogNetworkingProfiler: Shutdown
+[2025.05.08-03.16.21:850][699]LoadingProfiler: Shutdown
+[2025.05.08-03.16.21:850][699]LogTimingProfiler: Shutdown
+[2025.05.08-03.16.22:274][699]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.08-03.16.22:278][699]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.08-03.16.22:278][699]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.08-03.16.22:315][699]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.08-03.16.22:315][699]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B249BBBD2-4A2E-104C-5174-5B80F26C32FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.2-39378466%2B%2B%2BUE5%2BRelease-5.5&UserID=b39c1a3048c0bcaf6bbc759f36a4c915%7C08ff4c3c28754d54860bdedd1112572c%7C00705c60-fa2d-4837-9aef-7ed42ef1954b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.08-03.16.22:876][699]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.08-03.16.22:876][699]RenderDocPlugin: plugin has been unloaded.
+[2025.05.08-03.16.22:877][699]LogXGEController: Cleaning working directory: C:/Users/21die/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.08-03.16.22:880][699]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.08-03.16.22:880][699]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.08-03.16.22:880][699]LogPakFile: Destroying PakPlatformFile
+[2025.05.08-03.16.23:352][699]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.08-03.16.23:394][699]LogExit: Exiting.
+[2025.05.08-03.16.23:430][699]Log file closed, 05/07/25 22:16:23
