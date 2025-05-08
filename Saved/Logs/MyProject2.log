@@ -5018,3 +5018,913 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.08-02.25.03:782][275]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_Auto2195DD0E64375DAF4DCDBCD93B6670DE4.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_Auto2.uasset'
 [2025.05.08-02.25.03:783][275]LogFileHelpers: Auto-saving content packages took 0.552
 [2025.05.08-02.26.26:931][526]LogDerivedDataCache: C:/Users/21die/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.08-02.29.08:858][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3868.392090
+[2025.05.08-02.29.09:858][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-02.29.09:858][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3869.058594, Update Interval: 354.781342
+[2025.05.08-02.35.54:953][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4274.498047
+[2025.05.08-02.35.55:954][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-02.35.55:954][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4275.164551, Update Interval: 305.174713
+[2025.05.08-02.37.48:030][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.08-02.37.48:037][758]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.08-02.37.48:037][758]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.08-02.37.48:052][758]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 14.933 ms (total: 102.571 ms)
+[2025.05.08-02.37.48:053][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.08-02.37.48:053][758]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.37.48:079][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026732s)
+[2025.05.08-02.37.48:079][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.026776s)
+[2025.05.08-02.37.48:100][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.08-02.37.48:103][758]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-02.37.48:105][758]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.37.48:105][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.37.48:105][758]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-02.37.48:105][758]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.37.48:114][758]LogWorldPartition: Display: WorldPartition initialize took 9.569 ms (total: 334.868 ms)
+[2025.05.08-02.37.48:114][758]LogPlayLevel: PIE: World Init took: (0.011291s)
+[2025.05.08-02.37.48:115][758]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.08-02.37.48:115][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.08-02.37.48:115][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.08-02.37.48:115][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.08-02.37.48:115][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.08-02.37.48:115][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.08-02.37.48:118][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.08-02.37.48:130][758]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2025.05.08-02.37.48:131][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.08-02.37.48:131][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.08-02.37.48:131][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.08-02.37.48:131][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.08-02.37.48:131][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.08-02.37.48:134][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.08-02.37.48:134][758]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.08-02.37.48:134][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.08-02.37.48:134][758]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownMap'.
+[2025.05.08-02.37.48:134][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.08-02.37.48:136][758]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.37.48:155][758]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-21.37.48
+[2025.05.08-02.37.48:156][758]LogWorld: Bringing up level for play took: 0.019005
+[2025.05.08-02.37.48:162][758]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.05.08-02.37.48:168][758]PIE: Server logged in
+[2025.05.08-02.37.48:169][758]PIE: Play in editor total start time 0.131 seconds.
+[2025.05.08-02.37.50:245][866]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_0
+[2025.05.08-02.37.51:488][934]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_1
+[2025.05.08-02.37.59:725][390]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_6
+[2025.05.08-02.38.01:221][475]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.08-02.38.01:221][475]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.08-02.38.02:088][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-02.38.02:088][540]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.38.02:089][540]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.38.02:094][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.38.02:094][540]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-02.38.02:097][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.08-02.38.02:103][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.38.02:125][540]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-02.38.02:127][540]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.08-02.38.02:128][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.08-02.38.02:130][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.08-02.38.02:133][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-02.38.02:141][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.08-02.38.02:158][541]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.05.08-02.38.08:736][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.08-02.38.08:742][326]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.08-02.38.08:742][326]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.08-02.38.08:757][326]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 14.340 ms (total: 116.911 ms)
+[2025.05.08-02.38.08:757][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.08-02.38.08:757][326]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.38.08:784][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026668s)
+[2025.05.08-02.38.08:784][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.026704s)
+[2025.05.08-02.38.08:802][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.08-02.38.08:804][326]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-02.38.08:805][326]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.38.08:805][326]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.38.08:805][326]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-02.38.08:805][326]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.38.08:815][326]LogWorldPartition: Display: WorldPartition initialize took 9.785 ms (total: 344.653 ms)
+[2025.05.08-02.38.08:815][326]LogPlayLevel: PIE: World Init took: (0.011387s)
+[2025.05.08-02.38.08:816][326]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.08-02.38.08:816][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.08-02.38.08:816][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.08-02.38.08:816][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.08-02.38.08:816][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.08-02.38.08:816][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.08-02.38.08:818][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.08-02.38.08:831][326]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2025.05.08-02.38.08:831][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.08-02.38.08:831][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.08-02.38.08:831][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.08-02.38.08:832][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.08-02.38.08:832][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.05.08-02.38.08:834][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.08-02.38.08:834][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.08-02.38.08:834][326]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.08-02.38.08:834][326]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownMap'.
+[2025.05.08-02.38.08:834][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.08-02.38.08:837][326]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.38.08:855][326]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-21.38.08
+[2025.05.08-02.38.08:856][326]LogWorld: Bringing up level for play took: 0.018832
+[2025.05.08-02.38.08:861][326]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.05.08-02.38.08:868][326]PIE: Server logged in
+[2025.05.08-02.38.08:869][326]PIE: Play in editor total start time 0.127 seconds.
+[2025.05.08-02.38.11:752][528]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_1
+[2025.05.08-02.38.12:197][562]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.08-02.38.12:197][562]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.08-02.38.12:990][626]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.05.08-02.38.12:990][626]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.05.08-02.38.12:992][626]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/Level_A"
+[2025.05.08-02.38.12:992][626]LogNet: Browse: /Game/TopDown/Maps/Level_A
+[2025.05.08-02.38.12:992][626]LogLoad: LoadMap: /Game/TopDown/Maps/Level_A
+[2025.05.08-02.38.12:992][626]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.38.12:998][626]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.38.13:004][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.38.13:004][626]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-02.38.13:029][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-02.38.13:035][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.08-02.38.13:038][626]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-02.38.13:045][626]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_A'.
+[2025.05.08-02.38.13:045][626]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_A
+[2025.05.08-02.38.13:047][626]LogWorldPartition: ULevel::OnLevelLoaded(Level_A)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.38.13:047][626]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.38.13:047][626]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.05.08-02.38.13:047][626]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.38.13:049][626]LogWorldPartition: Display: GenerateStreaming for 'Level_A' started...
+[2025.05.08-02.38.13:050][626]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/TopDown/Maps/Level_A (0xB33631D9489EA783) that has been renamed to /Game/TopDown/Maps/UEDPIE_0_Level_A (0xD039F9BC7EFA3BF0)
+[2025.05.08-02.38.13:417][626]LogWorldPartition: Display: GenerateStreaming for 'Level_A' took 367.782 ms (total: 484.694 ms)
+[2025.05.08-02.38.13:417][626]LogWorldPartition: Display: WorldPartition initialize took 370.694 ms (total: 715.348 ms)
+[2025.05.08-02.38.13:417][626]LogPlayLevel: PIE: World Init took: (0.372195s)
+[2025.05.08-02.38.13:417][626]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.38.13:421][626]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A up for play (max tick rate 0) at 2025.05.07-21.38.13
+[2025.05.08-02.38.13:421][626]LogWorld: Bringing up level for play took: 0.001087
+[2025.05.08-02.38.13:421][626]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (1496, 11 bits) vs calculated maxtiles (4080, 12 bits)
+[2025.05.08-02.38.13:484][626]LogLoad: Took 0.491831 seconds to LoadMap(/Game/TopDown/Maps/Level_A)
+[2025.05.08-02.38.13:484][626]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/Level_A
+[2025.05.08-02.38.13:514][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9040.000 Y=11020.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:515][627]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:533][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9040.000 Y=11020.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:537][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4240.000 Y=3020.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:539][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9840.000 Y=10220.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:541][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9040.000 Y=10220.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:542][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6640.000 Y=9420.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:544][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5840.000 Y=8620.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:546][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3440.000 Y=3820.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:546][627]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:555][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.000 Y=10220.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:558][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6640.000 Y=10220.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:558][627]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:566][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5840.000 Y=11020.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:567][627]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:574][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.000 Y=8620.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:575][627]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:582][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.000 Y=11020.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:735][632]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:745][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5840.000 Y=11020.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:748][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9040.000 Y=10220.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:751][632]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:760][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5840.000 Y=8620.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:763][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6640.000 Y=9420.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:764][632]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:772][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6640.000 Y=10220.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:774][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9040.000 Y=11020.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:776][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9840.000 Y=10220.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:778][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9040.000 Y=11020.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:780][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.000 Y=11020.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.13:780][632]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.13:789][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.000 Y=8620.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.13:792][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2216.015 Y=3956.477 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.13:794][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.000 Y=10220.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.14:013][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:026][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5485.828 Y=10514.588 Z=-98.420] for [BP_Zombie_C]
+[2025.05.08-02.38.14:029][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3579.332 Y=4976.823 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:032][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:041][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9840.000 Y=10220.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.38.14:044][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7028.943 Y=9341.847 Z=-90.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:048][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1542.949 Y=3385.938 Z=-82.917] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:049][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:058][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4443.160 Y=4777.458 Z=-94.565] for [BP_Zombie_C]
+[2025.05.08-02.38.14:061][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3875.097 Y=2879.360 Z=-97.030] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:066][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5859.279 Y=10585.000 Z=-93.364] for [Enemy_Actor_C]
+[2025.05.08-02.38.14:066][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:316][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1833.718 Y=3810.363 Z=-94.266] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:317][661]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:343][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7046.701 Y=10363.877 Z=-94.091] for [Enemy_Actor_C]
+[2025.05.08-02.38.14:345][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9840.000 Y=10220.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.38.14:355][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5013.649 Y=8571.899 Z=-96.222] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:356][661]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:375][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7706.514 Y=9650.095 Z=-97.328] for [BP_Enemy_Melee_C]
+[2025.05.08-02.38.14:375][661]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:391][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5811.790 Y=10204.577 Z=-90.000] for [BP_Zombie_C]
+[2025.05.08-02.38.14:393][661]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.38.14:409][661]LogBlueprintUserMessages: [DESTROYED_BP_EnemySpawner_C_CHILDACTOR_98] Boobs
+[2025.05.08-02.38.16:712][819]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_0
+[2025.05.08-02.38.19:291][993]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_3
+[2025.05.08-02.38.22:439][212]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_7
+[2025.05.08-02.38.24:123][326]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_10
+[2025.05.08-02.38.24:561][357]LogBlueprintUserMessages: [BP_Zombie_C_13] Xomplkajsdhflkalo
+[2025.05.08-02.38.24:698][366]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_11
+[2025.05.08-02.38.26:390][488]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_13
+[2025.05.08-02.38.31:768][865]LogBlueprintUserMessages: [BP_Zombie_C_13] Xomplkajsdhflkalo
+[2025.05.08-02.38.32:086][887]LogBlueprintUserMessages: [BP_Zombie_C_14] Xomplkajsdhflkalo
+[2025.05.08-02.38.32:577][921]LogBlueprintUserMessages: [BP_Zombie_C_14] Xomplkajsdhflkalo
+[2025.05.08-02.38.33:322][972]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_22
+[2025.05.08-02.38.36:474][191]LogBlueprintUserMessages: [BP_Zombie_C_13] Xomplkajsdhflkalo
+[2025.05.08-02.38.38:106][303]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_29
+[2025.05.08-02.38.38:106][303]LogScript: Warning: Attempted to access Enemy_Projectile_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_29 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A:PersistentLevel.Enemy_Actor_C_5
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-02.38.38:106][303]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_29 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-02.38.39:138][375]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_31
+[2025.05.08-02.38.39:138][375]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.05.08-02.38.39:138][375]LogScript: Warning: Attempted to access Enemy_Projectile_C_31 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_31 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A:PersistentLevel.Enemy_Actor_C_5
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-02.38.39:138][375]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_31 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_31 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-02.38.39:934][439]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.05.08-02.38.39:935][439]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/TopDownMap"
+[2025.05.08-02.38.39:935][439]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2025.05.08-02.38.39:935][439]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2025.05.08-02.38.39:935][439]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_Level_A
+[2025.05.08-02.38.39:940][439]LogWorld: UWorld::CleanupWorld for Level_A, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.38.39:943][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.38.39:944][439]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A
+[2025.05.08-02.38.39:970][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-02.38.39:979][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.08-02.38.39:982][439]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.38.40:009][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027042s)
+[2025.05.08-02.38.40:009][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.027098s)
+[2025.05.08-02.38.40:009][439]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownMap'.
+[2025.05.08-02.38.40:009][439]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-02.38.40:011][439]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.38.40:011][439]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.38.40:011][439]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-02.38.40:011][439]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.38.40:020][439]LogWorldPartition: Display: WorldPartition initialize took 9.105 ms (total: 724.453 ms)
+[2025.05.08-02.38.40:020][439]LogPlayLevel: PIE: World Init took: (0.010655s)
+[2025.05.08-02.38.40:020][439]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.38.40:037][439]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-21.38.40
+[2025.05.08-02.38.40:038][439]LogWorld: Bringing up level for play took: 0.017841
+[2025.05.08-02.38.40:046][439]LogLoad: Took 0.111208 seconds to LoadMap(/Game/TopDown/Maps/UEDPIE_0_TopDownMap)
+[2025.05.08-02.38.40:046][439]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.38.44:611][775]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_2
+[2025.05.08-02.38.46:461][912]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_3
+[2025.05.08-02.38.46:461][912]LogScript: Warning: Attempted to access Enemy_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_3 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Enemy_Actor_C_UAID_5CE91EABF2B2C76102_2037315953
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-02.38.46:461][912]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-02.38.48:774][ 83]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.05.08-02.38.50:108][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-02.38.50:108][188]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.38.50:108][188]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.38.50:114][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.38.50:114][188]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-02.38.50:117][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.08-02.38.50:122][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.38.50:147][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-02.38.50:149][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.08-02.38.50:149][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.08-02.38.50:151][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.08-02.38.50:162][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.08-02.38.50:277][189]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.05.08-02.38.53:161][500]LogSlate: Window 'Message Log' being destroyed
+[2025.05.08-02.38.53:169][500]LogSlate: Window 'Message Log' being destroyed
+[2025.05.08-02.39.47:519][859]LogShaderCompilers: Display: ================================================
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Total job queries 329, among them cache hits 50 (15.20%), DDC hits 233 (70.82%), Duplicates 5 (1.52%)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Tracking 274 distinct input hashes that result in 212 distinct outputs (77.37%)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: RAM used: 142.28 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Shaders Compiled: 41
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Jobs assigned 41, completed 41 (100%)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Average time worker was idle: 593.06 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.15 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Job execution time: average 1.70 s, max 2.87 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 3.02
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Shader code size: average 8.305 KiB, min 2.297 KiB, max 18.824 KiB
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.42 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Average processing rate: 2.50 jobs/sec
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Total thread time: 32.885 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Total thread preprocess time: 5.89 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Percentage time preprocessing: 17.91%
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Effective parallelization: 2.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.15 sec, max 1.68 sec, min 0.90 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    3 times, average 0.81 sec, max 1.00 sec, min 0.48 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.77 sec, max 1.29 sec, min 0.50 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.75 sec, max 1.03 sec, min 0.26 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    3 times, average 0.72 sec, max 0.93 sec, min 0.32 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.03% of total time (compiled    6 times, average 1.15 sec, max 1.68 sec, min 0.90 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.41% of total time (compiled    7 times, average 0.77 sec, max 1.29 sec, min 0.50 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.07% of total time (compiled    5 times, average 0.66 sec, max 0.99 sec, min 0.38 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.56% of total time (compiled    5 times, average 0.56 sec, max 0.87 sec, min 0.33 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.28% of total time (compiled    5 times, average 0.54 sec, max 0.82 sec, min 0.33 sec)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: === Material stats ===
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Materials Translated:    191
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Material Translation Only: 0.13 s (66%)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: Material Cache Hits: 35 (18%)
+[2025.05.08-02.39.47:520][859]LogShaderCompilers: Display: ================================================
+[2025.05.08-02.41.35:828][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4615.368164
+[2025.05.08-02.41.36:829][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-02.41.36:829][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4616.035645, Update Interval: 331.359589
+[2025.05.08-02.44.21:198][728]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.08-02.44.21:204][728]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.08-02.44.21:204][728]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.08-02.44.21:218][728]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 14.325 ms (total: 499.020 ms)
+[2025.05.08-02.44.21:219][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.08-02.44.21:219][728]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.44.21:246][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026959s)
+[2025.05.08-02.44.21:246][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.026998s)
+[2025.05.08-02.44.21:267][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.08-02.44.21:268][728]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-02.44.21:270][728]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.44.21:270][728]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.44.21:270][728]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-02.44.21:270][728]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.44.21:280][728]LogWorldPartition: Display: WorldPartition initialize took 9.519 ms (total: 733.973 ms)
+[2025.05.08-02.44.21:280][728]LogPlayLevel: PIE: World Init took: (0.011236s)
+[2025.05.08-02.44.21:281][728]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.08-02.44.21:281][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.08-02.44.21:281][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.08-02.44.21:281][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.08-02.44.21:281][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.08-02.44.21:281][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.08-02.44.21:283][728]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.08-02.44.21:296][728]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2025.05.08-02.44.21:297][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.08-02.44.21:297][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.08-02.44.21:297][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.08-02.44.21:297][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.08-02.44.21:297][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.08-02.44.21:299][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.08-02.44.21:299][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.08-02.44.21:299][728]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.08-02.44.21:299][728]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownMap'.
+[2025.05.08-02.44.21:299][728]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.08-02.44.21:302][728]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.44.21:322][728]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-21.44.21
+[2025.05.08-02.44.21:322][728]LogWorld: Bringing up level for play took: 0.019703
+[2025.05.08-02.44.21:328][728]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.05.08-02.44.21:335][728]PIE: Server logged in
+[2025.05.08-02.44.21:336][728]PIE: Play in editor total start time 0.132 seconds.
+[2025.05.08-02.44.26:078][974]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_2
+[2025.05.08-02.44.27:965][ 76]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_3
+[2025.05.08-02.44.27:965][ 76]LogScript: Warning: Attempted to access Enemy_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_3 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Enemy_Actor_C_UAID_5CE91EABF2B2C76102_2037315953
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-02.44.27:965][ 76]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-02.44.29:818][213]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.08-02.44.29:818][213]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.08-02.44.30:470][264]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.05.08-02.44.30:471][264]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.05.08-02.44.30:472][264]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/Level_A"
+[2025.05.08-02.44.30:472][264]LogNet: Browse: /Game/TopDown/Maps/Level_A
+[2025.05.08-02.44.30:472][264]LogLoad: LoadMap: /Game/TopDown/Maps/Level_A
+[2025.05.08-02.44.30:472][264]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.44.30:478][264]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.44.30:483][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.44.30:484][264]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-02.44.30:511][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-02.44.30:517][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.08-02.44.30:520][264]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-02.44.30:525][264]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_A'.
+[2025.05.08-02.44.30:525][264]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_A
+[2025.05.08-02.44.30:526][264]LogWorldPartition: ULevel::OnLevelLoaded(Level_A)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.44.30:526][264]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.44.30:526][264]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.05.08-02.44.30:526][264]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.44.30:527][264]LogWorldPartition: Display: GenerateStreaming for 'Level_A' started...
+[2025.05.08-02.44.30:529][264]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/TopDown/Maps/Level_A (0xB33631D9489EA783) that has been renamed to /Game/TopDown/Maps/UEDPIE_0_Level_A (0xD039F9BC7EFA3BF0)
+[2025.05.08-02.44.30:533][264]LogWorldPartition: Display: GenerateStreaming for 'Level_A' took 6.253 ms (total: 505.273 ms)
+[2025.05.08-02.44.30:534][264]LogWorldPartition: Display: WorldPartition initialize took 7.759 ms (total: 741.732 ms)
+[2025.05.08-02.44.30:534][264]LogPlayLevel: PIE: World Init took: (0.009080s)
+[2025.05.08-02.44.30:534][264]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.44.30:535][264]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A up for play (max tick rate 0) at 2025.05.07-21.44.30
+[2025.05.08-02.44.30:535][264]LogWorld: Bringing up level for play took: 0.000959
+[2025.05.08-02.44.30:536][264]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (1496, 11 bits) vs calculated maxtiles (4080, 12 bits)
+[2025.05.08-02.44.30:596][264]LogLoad: Took 0.123772 seconds to LoadMap(/Game/TopDown/Maps/Level_A)
+[2025.05.08-02.44.30:596][264]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/Level_A
+[2025.05.08-02.44.30:782][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8240.000 Y=-3380.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.44.30:783][278]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.44.30:793][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8240.000 Y=-2580.000 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.44.30:795][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5689.447 Y=-3542.968 Z=-90.000] for [Enemy_Actor_C]
+[2025.05.08-02.44.30:799][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5417.900 Y=-2296.595 Z=-98.404] for [Enemy_Actor_C]
+[2025.05.08-02.44.30:802][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7440.000 Y=-3380.000 Z=-100.000] for [BP_Enemy_Melee_C]
+[2025.05.08-02.44.30:810][278]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.44.30:821][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7440.000 Y=-3380.000 Z=-100.000] for [Enemy_Actor_C]
+[2025.05.08-02.44.31:083][295]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5469.214 Y=-2377.585 Z=-95.798] for [BP_Enemy_Melee_C]
+[2025.05.08-02.44.31:085][295]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.44.31:098][295]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-02.44.31:107][295]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4078.212 Y=-1275.018 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-02.44.31:114][295]LogBlueprintUserMessages: [DESTROYED_BP_EnemySpawner_C_CHILDACTOR_102] Boobs
+[2025.05.08-02.44.53:757][869]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_17
+[2025.05.08-02.44.56:069][ 29]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_21
+[2025.05.08-02.45.03:393][525]LogBlueprintUserMessages: [BP_Zombie_C_1] Xomplkajsdhflkalo
+[2025.05.08-02.45.04:071][572]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] BP_Enemy_Melee_C_0
+[2025.05.08-02.45.05:726][687]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_31
+[2025.05.08-02.45.10:554][ 24]LogBlueprintUserMessages: [BP_Zombie_C_2] Xomplkajsdhflkalo
+[2025.05.08-02.45.11:392][ 86]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] BP_Enemy_Melee_C_7
+[2025.05.08-02.45.12:727][185]LogBlueprintUserMessages: [BP_Enemy_Melee_C_7] 100.0
+[2025.05.08-02.45.13:436][238]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] BP_Enemy_Melee_C_7
+[2025.05.08-02.45.14:585][324]LogBlueprintUserMessages: [BP_Enemy_Melee_C_0] 100.0
+[2025.05.08-02.45.15:160][367]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] BP_Enemy_Melee_C_3
+[2025.05.08-02.45.16:711][483]LogBlueprintUserMessages: [BP_Enemy_Melee_C_7] 60.0
+[2025.05.08-02.45.16:885][496]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] BP_Enemy_Melee_C_7
+[2025.05.08-02.45.16:886][496]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.05.08-02.45.18:125][602]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.05.08-02.45.18:126][602]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/TopDownMap"
+[2025.05.08-02.45.18:126][602]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2025.05.08-02.45.18:126][602]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2025.05.08-02.45.18:126][602]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_Level_A
+[2025.05.08-02.45.18:134][602]LogWorld: UWorld::CleanupWorld for Level_A, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.45.18:137][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.45.18:137][602]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_Level_A.Level_A
+[2025.05.08-02.45.18:201][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-02.45.18:207][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.08-02.45.18:210][602]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.45.18:237][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026916s)
+[2025.05.08-02.45.18:237][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.026968s)
+[2025.05.08-02.45.18:237][602]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownMap'.
+[2025.05.08-02.45.18:237][602]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-02.45.18:239][602]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-02.45.18:239][602]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-02.45.18:239][602]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-02.45.18:239][602]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-02.45.18:248][602]LogWorldPartition: Display: WorldPartition initialize took 8.841 ms (total: 750.573 ms)
+[2025.05.08-02.45.18:248][602]LogPlayLevel: PIE: World Init took: (0.010394s)
+[2025.05.08-02.45.18:248][602]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-02.45.18:266][602]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-21.45.18
+[2025.05.08-02.45.18:267][602]LogWorld: Bringing up level for play took: 0.018547
+[2025.05.08-02.45.18:275][602]LogLoad: Took 0.148981 seconds to LoadMap(/Game/TopDown/Maps/UEDPIE_0_TopDownMap)
+[2025.05.08-02.45.18:275][602]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.45.34:946][620]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_10
+[2025.05.08-02.45.34:946][620]LogScript: Warning: Attempted to access Enemy_Projectile_C_10 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_10 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Enemy_Actor_C_UAID_5CE91EABF2B2C76102_2037315953
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-02.45.34:946][620]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_10 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-02.47.49:104][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4988.622559
+[2025.05.08-02.47.50:106][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-02.47.50:106][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4989.290527, Update Interval: 331.447479
+[2025.05.08-02.53.07:338][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-02.53.07:338][896]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-02.53.07:339][896]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-02.53.07:344][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.53.07:344][896]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-02.53.07:347][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.08-02.53.07:354][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-02.53.07:377][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-02.53.07:379][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.08-02.53.07:380][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.08-02.53.07:382][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.08-02.53.07:394][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.08-02.53.07:552][897]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.05.08-02.53.16:138][895]LogSlate: Window 'Message Log' being destroyed
+[2025.05.08-02.53.16:146][895]LogSlate: Window 'Message Log' being destroyed
+[2025.05.08-02.53.34:690][865]LogSlate: Window 'Fab' being destroyed
+[2025.05.08-02.53.34:693][865]LogSlate: Window 'Fab' being destroyed
+[2025.05.08-02.53.34:694][865]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.05.08-02.53.34:694][865]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/bc56af8f-36c7-4faa-8e7a-1516e335d69a.
+[2025.05.08-02.53.52:576][257]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.08-02.53.52:671][258]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.08-02.53.52:726][259]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.05.08-02.53.52:773][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.08-02.53.52:805][261]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.08-02.53.52:835][262]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.08-02.53.52:870][263]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.05.08-02.54.15:956][260]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.05.08-02.54.15:995][260]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.08-02.54.16:001][260]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.08-02.54.16:013][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5375.534180
+[2025.05.08-02.54.16:021][261]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.08-02.54.16:076][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-02.54.16:076][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5375.590332, Update Interval: 302.570892
+[2025.05.08-02.54.19:861][712]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.05.08-02.54.19:869][712]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.08-02.54.27:016][547]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> INSTRUCTIONS
+[2025.05.08-02.54.27:135][547]LogMetaData: Removing '/Game/TopDown/Blueprints/UI/INSTRUCTIONS.SKEL_INSTRUCTIONS_C' ref from Metadata '/Game/TopDown/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.05.08-02.54.27:135][547]LogMetaData: Removing '/Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS_C' ref from Metadata '/Game/TopDown/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.05.08-02.54.27:135][547]LogMetaData: Removing '/Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDown/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.05.08-02.54.27:136][547]LogMetaData: Removing '/Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDown/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.05.08-02.54.27:136][547]LogMetaData: Removing '/Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDown/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2025.05.08-02.54.27:144][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.08-02.54.27:144][547]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/UI/INSTRUCTIONS] ([2] browsable assets)...
+[2025.05.08-02.54.27:148][547]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS]
+[2025.05.08-02.54.27:148][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/UI/INSTRUCTIONS]
+[2025.05.08-02.54.27:151][547]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/UI/INSTRUCTIONS
+[2025.05.08-02.54.27:151][547]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/INSTRUCTIONS8B6AFDBF44A829749AE4AC91A1531338.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Content/TopDown/Blueprints/UI/INSTRUCTIONS.uasset'
+[2025.05.08-02.54.27:156][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.494 ms (total: 1.73 sec)
+[2025.05.08-02.54.27:196][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.08-02.54.27:217][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.08-02.54.27:236][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.08-02.54.27:316][547]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.08-02.54.27:316][547]LogContentValidation: Enabled validators:
+[2025.05.08-02.54.27:316][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.08-02.54.27:316][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.08-02.54.27:316][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.08-02.54.27:316][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.08-02.54.27:316][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.08-02.54.27:316][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.08-02.54.27:316][547]AssetCheck: /Game/TopDown/Blueprints/UI/INSTRUCTIONS Validating asset
+[2025.05.08-02.54.28:530][681]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS
+[2025.05.08-02.54.28:532][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.05.08-02.54.28:540][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.05.08-02.54.28:548][681]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.05.08-02.55.08:886][466]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.08-02.59.45:859][754]LogEditorTransaction: Undo Remove Widget
+[2025.05.08-03.00.10:382][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5729.916992
+[2025.05.08-03.00.10:487][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-03.00.10:487][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5730.011230, Update Interval: 308.549469
+[2025.05.08-03.00.15:131][538]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.08-03.02.55:783][151]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.05.08-03.02.55:796][151]LogSlate: Took 0.012120 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.05.08-03.05.55:549][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6075.079590
+[2025.05.08-03.05.55:614][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-03.05.55:614][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6075.135742, Update Interval: 306.434509
+[2025.05.08-03.07.05:465][111]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.08-03.07.39:116][386]LogEditorTransaction: Undo Move Node
+[2025.05.08-03.07.39:941][427]LogEditorTransaction: Undo Add Node
+[2025.05.08-03.07.47:443][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.08-03.08.08:221][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.05.08-03.08.08:221][497]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.08-03.08.08:925][500]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.08-03.08.31:856][325]LogSlate: Window 'INSTRUCTIONS' being destroyed
+[2025.05.08-03.08.31:867][325]LogSlate: Window 'INSTRUCTIONS' being destroyed
+[2025.05.08-03.08.31:873][325]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.08.31:873][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.08.31:947][325]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.08.31:948][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.08.31:957][325]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.08.31:957][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.08.32:037][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.08-03.09.31:517][588]LogEditorTransaction: Undo Add Node
+[2025.05.08-03.11.31:137][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.08-03.11.42:788][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.08-03.11.42:794][449]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.08-03.11.42:794][449]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.08-03.11.42:809][449]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 15.296 ms (total: 520.569 ms)
+[2025.05.08-03.11.42:810][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.08-03.11.42:810][449]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.11.42:839][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029493s)
+[2025.05.08-03.11.42:840][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.029537s)
+[2025.05.08-03.11.42:863][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.08-03.11.42:870][449]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-03.11.42:872][449]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-03.11.42:872][449]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-03.11.42:872][449]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-03.11.42:872][449]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-03.11.42:881][449]LogWorldPartition: Display: WorldPartition initialize took 9.570 ms (total: 760.143 ms)
+[2025.05.08-03.11.42:881][449]LogPlayLevel: PIE: World Init took: (0.011345s)
+[2025.05.08-03.11.42:882][449]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.08-03.11.42:882][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.08-03.11.42:882][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.08-03.11.42:882][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.08-03.11.42:882][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.08-03.11.42:882][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.08-03.11.42:884][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.08-03.11.42:897][449]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2025.05.08-03.11.42:897][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.08-03.11.42:897][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.08-03.11.42:897][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.08-03.11.42:898][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.08-03.11.42:898][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.05.08-03.11.42:900][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.08-03.11.42:900][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.08-03.11.42:900][449]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.08-03.11.42:900][449]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownMap'.
+[2025.05.08-03.11.42:900][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.08-03.11.42:959][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-03.11.42:960][449]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-03.11.42:981][449]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-22.11.42
+[2025.05.08-03.11.42:982][449]LogWorld: Bringing up level for play took: 0.021364
+[2025.05.08-03.11.42:988][449]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.05.08-03.11.43:002][449]PIE: Server logged in
+[2025.05.08-03.11.43:008][449]PIE: Play in editor total start time 0.214 seconds.
+[2025.05.08-03.11.52:559][894]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_5
+[2025.05.08-03.11.54:316][977]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_6
+[2025.05.08-03.11.56:256][ 68]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_7
+[2025.05.08-03.11.57:399][122]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.08-03.11.57:399][122]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.08-03.11.58:537][179]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.05.08-03.11.58:538][179]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.05.08-03.11.58:539][179]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/Level_B"
+[2025.05.08-03.11.58:539][179]LogNet: Browse: /Game/TopDown/Maps/Level_B
+[2025.05.08-03.11.58:539][179]LogLoad: LoadMap: /Game/TopDown/Maps/Level_B
+[2025.05.08-03.11.58:539][179]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.11.58:544][179]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.11.58:549][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.11.58:549][179]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-03.11.58:571][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-03.11.58:582][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.08-03.11.58:585][179]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.08-03.11.58:592][179]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_B'.
+[2025.05.08-03.11.58:592][179]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_B
+[2025.05.08-03.11.58:594][179]LogWorldPartition: ULevel::OnLevelLoaded(Level_B)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-03.11.58:594][179]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-03.11.58:594][179]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.05.08-03.11.58:594][179]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-03.11.58:595][179]LogWorldPartition: Display: GenerateStreaming for 'Level_B' started...
+[2025.05.08-03.11.58:596][179]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/TopDown/Maps/Level_B (0x5F25FFCD40212D42) that has been renamed to /Game/TopDown/Maps/UEDPIE_0_Level_B (0xC759AEB335CF0932)
+[2025.05.08-03.11.58:601][179]LogWorldPartition: Display: GenerateStreaming for 'Level_B' took 6.521 ms (total: 527.091 ms)
+[2025.05.08-03.11.58:602][179]LogWorldPartition: Display: WorldPartition initialize took 8.517 ms (total: 768.661 ms)
+[2025.05.08-03.11.58:602][179]LogPlayLevel: PIE: World Init took: (0.010041s)
+[2025.05.08-03.11.58:602][179]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-03.11.58:603][179]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B up for play (max tick rate 0) at 2025.05.07-22.11.58
+[2025.05.08-03.11.58:603][179]LogWorld: Bringing up level for play took: 0.001010
+[2025.05.08-03.11.58:655][179]LogLoad: Took 0.116321 seconds to LoadMap(/Game/TopDown/Maps/Level_B)
+[2025.05.08-03.11.58:655][179]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/Level_B
+[2025.05.08-03.11.58:851][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1185.707 Y=2406.767 Z=-95.125] for [BP_Enemy_Melee_C]
+[2025.05.08-03.11.58:862][187]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-03.11.58:873][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3038.345 Y=239.330 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-03.11.58:876][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1536.992 Y=2862.023 Z=-90.286] for [BP_Enemy_Melee_C]
+[2025.05.08-03.11.58:877][187]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-03.11.58:887][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2010.032 Y=-844.750 Z=-100.000] for [BP_Zombie_C]
+[2025.05.08-03.11.58:890][187]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-03.11.59:173][197]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.05.08-03.11.59:183][197]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2287.876 Y=-1134.139 Z=-95.727] for [BP_Zombie_C]
+[2025.05.08-03.11.59:186][197]LogBlueprintUserMessages: [DESTROYED_BP_EnemySpawner_C_CHILDACTOR_74] Boobs
+[2025.05.08-03.12.02:006][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6441.529785
+[2025.05.08-03.12.02:131][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.08-03.12.02:131][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6441.630371, Update Interval: 323.749512
+[2025.05.08-03.12.04:953][426]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_1
+[2025.05.08-03.12.07:240][518]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_3
+[2025.05.08-03.12.07:240][518]LogScript: Warning: Attempted to access Enemy_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_3 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B:PersistentLevel.Enemy_Actor_C_0
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-03.12.07:241][518]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-03.12.08:375][564]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_5
+[2025.05.08-03.12.08:375][564]LogScript: Warning: Attempted to access Enemy_Projectile_C_5 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_5 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B:PersistentLevel.Enemy_Actor_C_0
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-03.12.08:375][564]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_5 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-03.12.09:679][617]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_7
+[2025.05.08-03.12.09:679][617]LogScript: Warning: Attempted to access Enemy_Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_7 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B:PersistentLevel.Enemy_Actor_C_0
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-03.12.09:679][617]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_7 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-03.12.10:967][669]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_8
+[2025.05.08-03.12.13:279][760]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_11
+[2025.05.08-03.12.15:873][863]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_14
+[2025.05.08-03.12.22:093][103]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_23
+[2025.05.08-03.12.23:081][142]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_25
+[2025.05.08-03.12.23:081][142]LogScript: Warning: Attempted to access Enemy_Projectile_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_25 is not valid (pending kill or garbage)
+	Enemy_Actor_C /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B:PersistentLevel.Enemy_Actor_C_2
+	Function /Game/Enemy/Enemy_Actor.Enemy_Actor_C:ExecuteUbergraph_Enemy_Actor:01D4
+[2025.05.08-03.12.23:081][142]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Projectile_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but Enemy_Projectile_C_25 is not valid (pending kill or garbage)". Node:  Add Projectile Movement Component Graph:  EventGraph Function:  Execute Ubergraph Enemy Actor Blueprint:  Enemy_Actor
+[2025.05.08-03.12.30:469][436]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] BP_Enemy_Melee_C_0
+[2025.05.08-03.12.30:470][436]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.05.08-03.12.31:708][500]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.05.08-03.12.31:709][500]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/TopDownMap"
+[2025.05.08-03.12.31:709][500]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2025.05.08-03.12.31:709][500]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2025.05.08-03.12.31:709][500]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_Level_B
+[2025.05.08-03.12.31:715][500]LogWorld: UWorld::CleanupWorld for Level_B, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.12.31:718][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.12.31:718][500]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_Level_B.Level_B
+[2025.05.08-03.12.31:746][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.08-03.12.31:753][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.08-03.12.31:756][500]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.12.31:783][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026400s)
+[2025.05.08-03.12.31:783][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.026447s)
+[2025.05.08-03.12.31:783][500]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownMap'.
+[2025.05.08-03.12.31:783][500]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-03.12.31:784][500]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-03.12.31:784][500]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-03.12.31:784][500]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-03.12.31:784][500]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-03.12.31:793][500]LogWorldPartition: Display: WorldPartition initialize took 8.750 ms (total: 777.412 ms)
+[2025.05.08-03.12.31:793][500]LogPlayLevel: PIE: World Init took: (0.010220s)
+[2025.05.08-03.12.31:793][500]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-03.12.31:811][500]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-22.12.31
+[2025.05.08-03.12.31:812][500]LogWorld: Bringing up level for play took: 0.018559
+[2025.05.08-03.12.31:821][500]LogLoad: Took 0.111630 seconds to LoadMap(/Game/TopDown/Maps/UEDPIE_0_TopDownMap)
+[2025.05.08-03.12.31:821][500]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.12.43:338][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-03.12.43:338][ 48]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.12.43:338][ 48]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.08-03.12.43:346][ 48]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.12.43:352][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.12.43:353][ 48]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-03.12.43:357][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.08-03.12.43:363][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.12.43:393][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.08-03.12.43:393][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.08-03.12.43:395][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.08-03.12.43:408][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.08-03.12.43:553][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.05.08-03.12.47:609][301]LogSlate: Window 'Message Log' being destroyed
+[2025.05.08-03.12.47:621][301]LogSlate: Window 'Message Log' being destroyed
+[2025.05.08-03.12.52:489][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.08-03.12.52:497][518]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.08-03.12.52:497][518]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.08-03.12.52:512][518]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 15.469 ms (total: 542.560 ms)
+[2025.05.08-03.12.52:512][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.08-03.12.52:512][518]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.12.52:542][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029616s)
+[2025.05.08-03.12.52:542][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.029657s)
+[2025.05.08-03.12.52:562][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.08-03.12.52:564][518]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.08-03.12.52:565][518]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.08-03.12.52:565][518]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.08-03.12.52:565][518]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.08-03.12.52:565][518]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.08-03.12.52:575][518]LogWorldPartition: Display: WorldPartition initialize took 9.485 ms (total: 786.897 ms)
+[2025.05.08-03.12.52:575][518]LogPlayLevel: PIE: World Init took: (0.011012s)
+[2025.05.08-03.12.52:575][518]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.08-03.12.52:575][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.08-03.12.52:575][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.08-03.12.52:575][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.08-03.12.52:576][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.08-03.12.52:576][518]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.08-03.12.52:576][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.08-03.12.52:576][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.08-03.12.52:576][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.08-03.12.52:576][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.08-03.12.52:576][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.08-03.12.52:576][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.08-03.12.52:578][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.08-03.12.52:590][518]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2025.05.08-03.12.52:590][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.08-03.12.52:590][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.08-03.12.52:590][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.08-03.12.52:591][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.08-03.12.52:591][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.08-03.12.52:593][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.08-03.12.52:593][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.08-03.12.52:593][518]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.08-03.12.52:593][518]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownMap'.
+[2025.05.08-03.12.52:593][518]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.08-03.12.52:643][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-03.12.52:643][518]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.08-03.12.52:663][518]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.07-22.12.52
+[2025.05.08-03.12.52:664][518]LogWorld: Bringing up level for play took: 0.020500
+[2025.05.08-03.12.52:670][518]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.05.08-03.12.52:684][518]PIE: Server logged in
+[2025.05.08-03.12.52:690][518]PIE: Play in editor total start time 0.194 seconds.
+[2025.05.08-03.13.02:248][954]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_5
+[2025.05.08-03.13.04:975][ 81]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_7
+[2025.05.08-03.13.06:636][158]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_8
+[2025.05.08-03.13.08:026][224]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Enemy_Projectile_C_9
+[2025.05.08-03.13.09:358][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.08-03.13.09:358][284]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.08-03.13.09:358][284]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.08-03.13.09:363][284]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.08-03.13.09:369][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.13.09:369][284]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.08-03.13.09:373][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.08-03.13.09:379][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.08-03.13.09:408][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.08-03.13.09:408][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.08-03.13.09:410][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.08-03.13.09:424][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.08-03.13.09:457][285]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.05.08-03.13.34:907][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.08-03.13.34:911][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.032
+[2025.05.08-03.13.34:911][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.08-03.13.34:912][453]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.05.08-03.13.35:133][453]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C]
+[2025.05.08-03.13.35:159][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.08-03.13.35:159][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.08-03.13.35:192][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto3
+[2025.05.08-03.13.35:193][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/BP_TopDownCharacter_Auto3B8A449C945470F5DC0A362A6A397D870.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto3.uasset'
+[2025.05.08-03.13.35:194][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N] ([1] browsable assets)...
+[2025.05.08-03.13.35:194][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N]
+[2025.05.08-03.13.35:216][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N_Auto3
+[2025.05.08-03.13.35:216][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T_sbxuw_2K_N_Auto3E202F3334018042283BF1FAB68350545.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_N_Auto3.uasset'
+[2025.05.08-03.13.35:218][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM] ([1] browsable assets)...
+[2025.05.08-03.13.35:218][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM]
+[2025.05.08-03.13.35:249][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM_Auto3
+[2025.05.08-03.13.35:249][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T_sbxuw_2K_ORM_Auto33429E4CC4A96D10718DAC0A9F50101B8.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_ORM_Auto3.uasset'
+[2025.05.08-03.13.35:250][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B] ([1] browsable assets)...
+[2025.05.08-03.13.35:250][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B]
+[2025.05.08-03.13.35:276][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B_Auto3
+[2025.05.08-03.13.35:276][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/T_sbxuw_2K_B_Auto33484FB344EE6C89613DD2DA84A49E35C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/T_sbxuw_2K_B_Auto3.uasset'
+[2025.05.08-03.13.35:278][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw] ([1] browsable assets)...
+[2025.05.08-03.13.35:278][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw]
+[2025.05.08-03.13.35:279][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw_Auto3
+[2025.05.08-03.13.35:279][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/MI_sbxuw_Auto3833E7949485D77B7589B7886C87FCE45.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/MI_sbxuw_Auto3.uasset'
+[2025.05.08-03.13.35:280][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2] ([1] browsable assets)...
+[2025.05.08-03.13.35:280][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2]
+[2025.05.08-03.13.35:294][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2_Auto3
+[2025.05.08-03.13.35:294][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/sbxuw_tier_2_Auto36571F4144C8A691EB1E9C49E79568392.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Megascans/3D/Castle_Wall_sbxuw/Medium/sbxuw_tier_2_Auto3.uasset'
+[2025.05.08-03.13.35:296][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_0] ([1] browsable assets)...
+[2025.05.08-03.13.35:296][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_0]
+[2025.05.08-03.13.35:330][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_0_Auto3
+[2025.05.08-03.13.35:331][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_0_Auto34D8E169B4CC073ADD54CDA800C4B2B77.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_0_Auto3.uasset'
+[2025.05.08-03.13.35:332][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_1] ([1] browsable assets)...
+[2025.05.08-03.13.35:332][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_1]
+[2025.05.08-03.13.35:341][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_1_Auto3
+[2025.05.08-03.13.35:341][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_1_Auto3E6BADBCF43CF2976D0E6FB9500150F0D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_1_Auto3.uasset'
+[2025.05.08-03.13.35:342][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_2] ([1] browsable assets)...
+[2025.05.08-03.13.35:342][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_2]
+[2025.05.08-03.13.35:356][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_2_Auto3
+[2025.05.08-03.13.35:356][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_2_Auto31596DD7041209206E98DC8AA8F19D41C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_2_Auto3.uasset'
+[2025.05.08-03.13.35:358][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_3] ([1] browsable assets)...
+[2025.05.08-03.13.35:358][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_3]
+[2025.05.08-03.13.35:378][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_3_Auto3
+[2025.05.08-03.13.35:379][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_3_Auto3E9FE299E4E1F37E7A91128999646ABC5.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_3_Auto3.uasset'
+[2025.05.08-03.13.35:380][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_4] ([1] browsable assets)...
+[2025.05.08-03.13.35:380][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_4]
+[2025.05.08-03.13.35:401][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_4_Auto3
+[2025.05.08-03.13.35:401][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_4_Auto3D163E09748462F2B93907FAFF94A3DD1.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_4_Auto3.uasset'
+[2025.05.08-03.13.35:402][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_6] ([1] browsable assets)...
+[2025.05.08-03.13.35:402][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_6]
+[2025.05.08-03.13.35:419][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_6_Auto3
+[2025.05.08-03.13.35:420][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_6_Auto31CE732B446D5CA2BFECF81AA65EE628D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_6_Auto3.uasset'
+[2025.05.08-03.13.35:421][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_7] ([1] browsable assets)...
+[2025.05.08-03.13.35:421][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_7]
+[2025.05.08-03.13.35:438][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_7_Auto3
+[2025.05.08-03.13.35:438][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_7_Auto3A5920647447387A551AC56BAC57706AD.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_7_Auto3.uasset'
+[2025.05.08-03.13.35:439][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Window_glass] ([1] browsable assets)...
+[2025.05.08-03.13.35:439][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Window_glass]
+[2025.05.08-03.13.35:441][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/Window_glass_Auto3
+[2025.05.08-03.13.35:441][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Window_glass_Auto342C04AA84EB9637EDB58D185E424EBC3.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/Window_glass_Auto3.uasset'
+[2025.05.08-03.13.35:442][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window_texture_5] ([1] browsable assets)...
+[2025.05.08-03.13.35:442][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window_texture_5]
+[2025.05.08-03.13.35:456][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_5_Auto3
+[2025.05.08-03.13.35:456][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_texture_5_Auto3AE97000D43A8AB7CE592FCB409A1C2AA.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_texture_5_Auto3.uasset'
+[2025.05.08-03.13.35:457][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Wall] ([1] browsable assets)...
+[2025.05.08-03.13.35:457][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Wall]
+[2025.05.08-03.13.35:459][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/Wall_Auto3
+[2025.05.08-03.13.35:459][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Wall_Auto3C21AB79547FDA3E7CEA236B4B9B14020.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/Wall_Auto3.uasset'
+[2025.05.08-03.13.35:461][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Wall_2_Window] ([1] browsable assets)...
+[2025.05.08-03.13.35:461][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Wall_2_Window]
+[2025.05.08-03.13.35:462][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/Wall_2_Window_Auto3
+[2025.05.08-03.13.35:462][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Wall_2_Window_Auto351DB41814D990BDDB8E0BB97BD56AEBB.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/Wall_2_Window_Auto3.uasset'
+[2025.05.08-03.13.35:463][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/Window_Bars] ([1] browsable assets)...
+[2025.05.08-03.13.35:463][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/Window_Bars]
+[2025.05.08-03.13.35:465][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/Window_Bars_Auto3
+[2025.05.08-03.13.35:465][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Window_Bars_Auto30AD0421543B21F7067FF939DFE3B8A4B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/Window_Bars_Auto3.uasset'
+[2025.05.08-03.13.35:466][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Window/medieval_window] ([1] browsable assets)...
+[2025.05.08-03.13.35:466][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Window/medieval_window]
+[2025.05.08-03.13.35:471][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Window/medieval_window_Auto3
+[2025.05.08-03.13.35:471][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_window_Auto33A019B7545F1337EEDFF8793E833126C.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Window/medieval_window_Auto3.uasset'
+[2025.05.08-03.13.35:472][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce_texture_0] ([1] browsable assets)...
+[2025.05.08-03.13.35:472][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce_texture_0]
+[2025.05.08-03.13.35:546][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_texture_0_Auto3
+[2025.05.08-03.13.35:546][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_texture_0_Auto323B2B35843A4A4D80A58DFAE14659A69.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_texture_0_Auto3.uasset'
+[2025.05.08-03.13.35:548][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce_texture_1] ([1] browsable assets)...
+[2025.05.08-03.13.35:548][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce_texture_1]
+[2025.05.08-03.13.35:659][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_texture_1_Auto3
+[2025.05.08-03.13.35:660][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_texture_1_Auto319AAC9834F5C9F0E9AE0C69C2676F620.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_texture_1_Auto3.uasset'
+[2025.05.08-03.13.35:661][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce_texture_2] ([1] browsable assets)...
+[2025.05.08-03.13.35:661][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce_texture_2]
+[2025.05.08-03.13.35:779][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_texture_2_Auto3
+[2025.05.08-03.13.35:780][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_texture_2_Auto3A85476F04A3AD29387F34489265945DD.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_texture_2_Auto3.uasset'
+[2025.05.08-03.13.35:782][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/phong4] ([1] browsable assets)...
+[2025.05.08-03.13.35:782][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/phong4]
+[2025.05.08-03.13.35:784][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Wall_Sconce/phong4_Auto3
+[2025.05.08-03.13.35:785][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/phong4_Auto3EF29E2B141D441E91576C5B1E8AA1261.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Wall_Sconce/phong4_Auto3.uasset'
+[2025.05.08-03.13.35:786][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Wall_Sconce/wall_sconce] ([1] browsable assets)...
+[2025.05.08-03.13.35:786][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Wall_Sconce/wall_sconce]
+[2025.05.08-03.13.35:792][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_Auto3
+[2025.05.08-03.13.35:793][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/wall_sconce_Auto32F2D65524DD28FE7582488B42C8A0EEA.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Wall_Sconce/wall_sconce_Auto3.uasset'
+[2025.05.08-03.13.35:794][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch_texture_0] ([1] browsable assets)...
+[2025.05.08-03.13.35:794][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch_texture_0]
+[2025.05.08-03.13.35:818][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_texture_0_Auto3
+[2025.05.08-03.13.35:818][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_texture_0_Auto3F46BE8F648BBC858DC7EBD85248D8838.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_texture_0_Auto3.uasset'
+[2025.05.08-03.13.35:819][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch_texture_1] ([1] browsable assets)...
+[2025.05.08-03.13.35:819][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch_texture_1]
+[2025.05.08-03.13.35:837][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_texture_1_Auto3
+[2025.05.08-03.13.35:837][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_texture_1_Auto3CB78B0614B6B9D78A124768CFBC745AB.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_texture_1_Auto3.uasset'
+[2025.05.08-03.13.35:839][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch_texture_2] ([1] browsable assets)...
+[2025.05.08-03.13.35:839][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch_texture_2]
+[2025.05.08-03.13.35:866][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_texture_2_Auto3
+[2025.05.08-03.13.35:866][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_texture_2_Auto38364888D437D1C09CA1EC9870665828B.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_texture_2_Auto3.uasset'
+[2025.05.08-03.13.35:867][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/Torch] ([1] browsable assets)...
+[2025.05.08-03.13.35:867][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/Torch]
+[2025.05.08-03.13.35:869][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Torch/Torch_Auto3
+[2025.05.08-03.13.35:869][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Torch_Auto345DAFB8C40B43954930F83971EA0561D.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Torch/Torch_Auto3.uasset'
+[2025.05.08-03.13.35:870][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medieval_Torch/medieval_torch] ([1] browsable assets)...
+[2025.05.08-03.13.35:870][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medieval_Torch/medieval_torch]
+[2025.05.08-03.13.35:877][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_Auto3
+[2025.05.08-03.13.35:877][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/medieval_torch_Auto36941D4354D073DD1FE5364AF4C1073AE.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/Fab/Medieval_Torch/medieval_torch_Auto3.uasset'
+[2025.05.08-03.13.35:878][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/UI/INSTRUCTIONS] ([2] browsable assets)...
+[2025.05.08-03.13.35:886][453]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/Blueprints/UI/INSTRUCTIONS.INSTRUCTIONS]
+[2025.05.08-03.13.35:886][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/UI/INSTRUCTIONS]
+[2025.05.08-03.13.35:893][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/UI/INSTRUCTIONS_Auto3
+[2025.05.08-03.13.35:893][453]LogSavePackage: Moving '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/INSTRUCTIONS_Auto362A1CF014C4D11D197D722AC94106BC8.tmp' to '../../../../OneDrive/Desktop/CS_415_Project/New_Folder/cs415-final/Saved/Autosaves/Game/TopDown/Blueprints/UI/INSTRUCTIONS_Auto3.uasset'
+[2025.05.08-03.13.35:894][453]LogFileHelpers: Auto-saving content packages took 0.983
